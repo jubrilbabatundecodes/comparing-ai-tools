@@ -1,4 +1,4 @@
-# AI TOOL CLUB
+# Comparing AI Tools
 
 **Independent reviews and side-by-side comparisons of AI tools.**
 
