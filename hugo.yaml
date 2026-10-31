@@ -13,7 +13,7 @@ summaryLength: 55
 
 params:
   env: production
-title: AI TOOL CLUB
+  title: AI TOOL CLUB
   description: >-
     AI TOOL CLUB helps you compare the best AI tools for coding, writing,
     image generation, and more. Save time and money — find the right tool for
