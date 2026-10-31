@@ -11,9 +11,10 @@ TocOpen: true
 faq:
   - question: "Is Flux better than Stable Diffusion 3?"
     answer: "Yes — Flux (8.0) meaningfully outperforms SD3 (7.5) on image quality, text rendering, and architectural modernity. Flux was built by the same core team that created SD at Stability AI before leaving to found Black Forest Labs — it represents their second attempt informed by everything they learned. SD3 still has advantages: larger community, more tutorials/tools/LoRAs, and broader ecosystem support. For best quality: Flux. For ecosystem and community resources: SD3 is still competitive."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Fast Verdict⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
@@ -25,13 +26,13 @@ faq:
   </p>
 </div>
 
-## The Shared DNA
+## The Shared Background
 
 Stable Diffusion 3 and Flux share a history. The core research team behind SD (Robin Rombach, Andreas Blattmann, and colleagues) created Stable Diffusion at Stability AI — the model that launched the open-source AI image revolution. In 2023, they left Stability AI to found Black Forest Labs and build Flux — their second attempt, informed by everything they learned from SD's successes and limitations.
 
 SD3 represents Stability AI's continued development of the original line. Flux represents what the original creators built when they could start fresh. Comparing them is comparing the original vision evolved (SD3) against the original vision reimagined (Flux).
 
-## Core Scoring 📊
+## Score Summary 📊
 
 <div class="table-responsive">
 
@@ -44,7 +45,7 @@ SD3 represents Stability AI's continued development of the original line. Flux r
 
 </div>
 
-## 3 Key Tests 🔬
+## Three Quick Tests 🔬
 
 ### Test 1: Image Quality
 
@@ -80,14 +81,14 @@ SD3 represents Stability AI's continued development of the original line. Flux r
 
 </div>
 
-## Final Recommendation
+## Who Should Pick This
 
 <div class="pros-cons-grid">
 <div class="pros-box">
 
 ### 🏆 Choose Flux if:
 - Best image quality and text rendering matter
-- You're starting fresh and want the best open-source model
+- You're starting fresh and want the strongest open-source model
 - Apache 2.0 licensing matters for commercial projects
 - [Review →](/posts/flux-review/)
 

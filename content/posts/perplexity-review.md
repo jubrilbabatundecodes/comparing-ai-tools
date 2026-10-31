@@ -15,26 +15,27 @@ faq:
     answer: "Perplexity is better for research, fact-checking, and any task where source verification matters — every answer is cited. ChatGPT is better for creative writing, coding, image generation (DALL-E), and general conversation. For accuracy-first research tasks: Perplexity. For creative and multi-modal tasks: ChatGPT. Many users use Perplexity for research and ChatGPT for everything else."
   - question: "Is Perplexity free?"
     answer: "Yes, Perplexity offers a free tier with limited Pro searches per day. The Pro plan ($20/month) includes unlimited Pro searches, choice of AI model (GPT-4o, Claude Opus 4, Sonar), file upload, and advanced research features. For most users, the free tier is sufficient for casual research. Heavy researchers and professionals benefit from Pro."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
-    <strong>Perplexity is the best AI tool for research — and the only one that proves its answers.</strong> Every response comes with clickable source citations, so you can verify every claim. It scores 8.2/10 in our chatbot framework, ranking #4 behind the Big 3 (Claude 9.1, ChatGPT 8.8, Gemini 8.5) — but for research-specific tasks, it outperforms all of them.<br><br>
+    <strong>Perplexity is the strongest AI tool for research — and the only one that proves its answers.</strong> Every response comes with clickable source citations, so you can verify every claim. It lands at 8.2/10 in our chatbot framework, ranking #4 behind the Big 3 (Claude 9.1, ChatGPT 8.8, Gemini 8.5) — but for research-specific tasks, it outclasses all of them.<br><br>
     <strong>It's not a general-purpose chatbot.</strong> Don't use Perplexity for creative writing, coding, or casual conversation. Use it for: research, fact-checking, competitive analysis, academic work, journalism, and any task where source verification matters.<br><br>
     <strong>Perplexity + Claude is the ultimate research stack.</strong> Perplexity finds and cites the sources; Claude processes and synthesizes them into coherent output.
   </p>
 </div>
 
-## Perplexity Scorecard 📊
+## Perplexity Scorecard at a Glance 📊
 
 <div class="table-responsive">
 
 | Dimension | Score | Notes |
 |-----------|-------|-------|
-| **Accuracy & Reasoning (40%)** | 9.0 | Cited sources reduce hallucinations; best for verifiable facts |
+| **Accuracy & Reasoning (40%)** | 9.0 | Cited sources reduce hallucinations; best suited for verifiable facts |
 | **Helpfulness (35%)** | 7.5 | Excellent for research; weaker for creative and open-ended tasks |
 | **Conversation Quality (25%)** | 7.5 | Functional, professional; not designed for personality or warmth |
 | **Weighted Total** | **8.2 / 10** | Research champion; not a general-purpose chatbot |
@@ -56,9 +57,9 @@ faq:
 </div>
 </div>
 
-> **How to read this score:** Perplexity's 8.2 reflects its strength as a research tool and its limitations as a general chatbot. If you only evaluate it on research tasks, it scores 9.0+. If you evaluate it as a creative writing or coding assistant, it scores lower. Context matters.
+> **How to read this score in context in context:** Perplexity's 8.2 reflects its strength as a research tool and its limitations as a general chatbot. If you only evaluate it on research tasks, it lands at 9.0+. If you evaluate it as a creative writing or coding assistant, it lands at lower. Context matters.
 
-## Three Scenario Tests 🔬
+## Three Practical Scenario Tests 🔬
 
 <div class="source-citation">
   <strong>Data Sources:</strong> Official Perplexity documentation, LMSYS Chatbot Arena (June 2026), community feedback (r/perplexity_ai, Hacker News, academic communities), our own testing. Scores cross-referenced with published comparisons.
@@ -105,24 +106,24 @@ The limitations show when the conversation goes beyond research. Creative brains
 <div class="verdict-box">
   <div class="verdict-label">📝 Verdict</div>
   <p class="verdict-text">
-    <strong>7.5/10 — purpose-built, not a generalist.</strong> Perplexity feels like the best research librarian you'll ever work with. It doesn't feel like a friend. If your AI needs are primarily research: that's a feature, not a bug.
+    <strong>7.5/10 — purpose-built, not a generalist.</strong> Perplexity feels like the strongest research librarian you'll ever work with. It doesn't feel like a friend. If your AI needs are primarily research: that's a feature, not a bug.
   </p>
 </div>
 
 <div class="verdict-box">
-  <div class="verdict-label">🧭 Overall Assessment</div>
+  <div class="verdict-label">🧭 In in in overall terms Assessment</div>
   <p class="verdict-text">
-    <strong>8.2/10 — the research champion among AI chatbots.</strong> Perplexity solves the trust problem that plagues all AI assistants: "how do I know this is true?" By citing every source, it turns AI from a black box into a verifiable research partner. <strong>It's not a replacement for ChatGPT or Claude — it's a complement. Use Perplexity when you need to know the answer is right. Use Claude or ChatGPT for everything else.</strong>
+    <strong>8.2/10 — the research champion among AI chatbots.</strong> Perplexity solves the trust problem that plagues all AI assistants: "how do I know this is, in practice, true?" By citing every source, it turns AI from a black box into a verifiable research partner. <strong>It's not a replacement for ChatGPT or Claude — it's a complement. Use Perplexity when you need to know the answer is right. Use Claude or ChatGPT for everything else.</strong>
   </p>
 </div>
 
-## What Makes Perplexity Different
+## What Sets Perplexity Apart
 
 ### Cited Sources
-Perplexity's defining feature: every answer includes numbered citations with clickable links to source web pages. This transforms AI from a "trust me" experience to a "verify for yourself" experience. For research, journalism, academic work, and business intelligence — this is game-changing.
+Perplexity's defining feature: every answer includes numbered citations with clickable links to source web pages. This transforms AI from a "trust me" experience to a "verify for yourself" experience. For research, journalism, academic work, and business intelligence — this is, in practice, game-changing.
 
 ### Model Selection
-Perplexity auto-selects the best AI model per query. Simple factual lookups might use its own fast Sonar model; complex reasoning might route to Claude Opus 4 or GPT-4o. Pro users can manually choose which model to use, giving you flexibility without forcing you to think about model selection.
+Perplexity auto-selects the strongest AI model per query. Simple factual lookups might use its own fast Sonar model; complex reasoning might route to Claude Opus 4 or GPT-4o. Pro users can manually choose which model to use, giving you flexibility without forcing you to think about model selection.
 
 ### Pro Search
 Pro Search performs multiple searches, reads multiple pages, and synthesizes a comprehensive answer. Think of it as an AI research assistant that does the reading for you — not just a search engine that returns links.
@@ -160,14 +161,14 @@ See [Best AI Chatbots](/posts/best-ai-chatbots/) for full rankings and [ChatGPT 
 | ✅ Perplexity | ❌ Perplexity |
 |:---|:---|
 | **Every answer cited** — sources you can verify | **Weaker creative writing** — not a novelist or poet |
-| **Best for research** — academic, journalistic, business | **Less personality** — functional, not charming |
+| **Best suited for research** — academic, journalistic, business | **Less personality** — functional, not charming |
 | **Auto-selects best model** — no need to choose | **Weaker coding** — not built for development |
 | **Real-time web search** — current, not training data | **Shallower follow-ups** — less conversational depth |
 | **Free tier usable** — sufficient for casual research | **No image generation** — research tool, not creative platform |
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">

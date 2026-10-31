@@ -8,20 +8,21 @@ tags: ["Sora", "Kling", "OpenAI", "Kuaishou", "AI video", "video generation", "S
 affiliateNote: "Some links may earn us a commission at no extra cost to you."
 ShowToc: true
 TocOpen: true
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Fast Verdict⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
     <strong>Sora 2 is for storytellers who need cinematic physics.</strong> OpenAI's "world model" approach produces video with superior physical reasoning — objects move convincingly, lighting behaves naturally, and narrative scenes feel grounded. But availability is limited (ChatGPT Plus required, waitlist in some regions).<br><br>
     <strong>Kling 3.0 is for creators who need length and accessibility.</strong> Kuaishou's model supports 120-second videos (2× Sora's 60), scored higher in blind Elo tests (1103 vs 1088), and is fully open to all users. It's the practical choice — especially for Chinese-language content.<br><br>
-    <strong>These aren't "one better than the other." Sora wins physics; Kling wins accessibility and duration. Your choice depends on whether you prioritize narrative quality or production volume.</strong>
+    <strong>This is not a clean one-model-wins story. Sora wins the physics argument; Kling wins the practicality argument. Your choice depends on whether you prioritize narrative quality or production volume.</strong>
   </p>
 </div>
 
-## Core Scoring 📊
+## Score Summary 📊
 
 <div class="table-responsive">
 
@@ -51,7 +52,7 @@ TocOpen: true
 
 > **⚙️ Weight:** This comparison uses the **default video weights (40/35/25)** — no adjustment needed. While Kling wins overall by a razor-thin margin (8.4 vs 8.3), the two tools are close enough that the choice should be driven by use case, not raw score. Sora's availability penalty is the tiebreaker — a theoretically better tool you can't use doesn't help.
 
-## Three Scenario Tests 🔬
+## Three Real-World Tests 🔬
 
 <div class="source-citation">
   <strong>Data Sources:</strong> Video Arena blind Elo rankings (June 2026), official documentation (OpenAI, Kuaishou/Kling), community testing (r/sora, r/aivideo, Chinese AI communities, X/Twitter), pricing pages. Physical realism assessments cross-referenced with filmmaker reviews.
@@ -111,7 +112,7 @@ Sora 2's biggest weakness is access. It requires ChatGPT Plus, has regional wait
 
 ## Detailed Comparison
 
-### Pricing & Access
+### Pricing Snapshot & Access
 
 <div class="table-responsive">
 
@@ -161,12 +162,12 @@ Sora 2's biggest weakness is access. It requires ChatGPT Plus, has regional wait
 | **Fully open** — no waitlist, no gate, anyone can use | **Expensive API** — $16.80/min at 1080p Pro |
 | **120-second videos** — 2× Sora's maximum duration | **Physics trails Sora** — minor artifacts in complex motion |
 | **Blind Elo leader** — 1103 vs Sora's 1088 | **Weaker narrative** — optimized for visual quality, not story |
-| **Native Chinese quality** — best-in-class for Chinese content | **Less global brand recognition** — primarily known in Asia |
+| **Native Chinese quality** — strongest-in-class for Chinese content | **Less global brand recognition** — primarily known in Asia |
 | **Practical choice** — for high-volume production | **Fewer English resources** — documentation and community |
 
 </div>
 
-## Final Recommendation
+## Who Should Pick This
 
 <div class="pros-cons-grid">
 <div class="pros-box">
@@ -176,7 +177,7 @@ Sora 2's biggest weakness is access. It requires ChatGPT Plus, has regional wait
 - Make narrative films or cinematic content where physics matters
 - Already use ChatGPT Plus and want integrated video generation
 - Produce carefully crafted pieces (not high-volume content)
-- Need the best physical realism and object permanence
+- Need the strongest physical realism and object permanence
 - Can accept limited availability for premium quality
 - Work primarily in English
 

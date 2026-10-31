@@ -11,21 +11,22 @@ TocOpen: true
 faq:
   - question: "Should I use Perplexity or Gemini for research?"
     answer: "Perplexity (8.2) is the better research tool — every answer comes with numbered footnotes linking to live sources, and the UX is optimized for verification and deep-dive research. Gemini (8.5) is the better all-around tool — faster (289 tok/s), multimodal (video/charts/images), 1M context, and integrated with Google Workspace. For academic, journalistic, or professional research where source verification matters: Perplexity. For broad AI assistance with strong research capabilities on the side: Gemini."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
     <strong>Gemini is the better all-around AI. Perplexity is the better research tool.</strong><br><br>
     Gemini 2.5 Pro (8.5/10) is Google's multimodal powerhouse — 289 tok/s (4× faster), 1M context, native video/chart/image understanding, Google Workspace integration. It's a strong general AI that also does research well.<br><br>
-    Perplexity (8.2/10) does one thing better than anyone: research with verifiable sources. Every answer footnoted with clickable citations. The UX is built for research — related questions, source lists, Pro Search for deep multi-step searches. For work where source verification matters: Perplexity is purpose-built.<br><br>
+    Perplexity (8.2/10) does one thing stronger than anyone: research with verifiable sources. Every answer footnoted with clickable citations. The UX is built for research — related questions, source lists, Pro Search for deep multi-step searches. For work where source verification matters: Perplexity is purpose-built.<br><br>
     <strong>For broad AI assistance: Gemini. For professional research: Perplexity.</strong>
   </p>
 </div>
 
-## Core Scoring
+## Scorecard at a Glance
 
 <div class="table-responsive">
 
@@ -38,7 +39,7 @@ faq:
 
 </div>
 
-## 3 Key Tests
+## 3 Tests That Matter
 
 ### Test 1: Research with Sources
 **Perplexity:** 8 inline citations, every claim linked to source, Pro Search for multi-step deep research. Built for verification. **Gemini:** Strong research, good summaries, but citations less prominent. More "trust me" than "here's where this came from."
@@ -51,11 +52,11 @@ faq:
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Gemini — speed + multimodal is a major advantage for mixed-media research.</strong></p></div>
 
 ### Test 3: Ecosystem
-**Gemini:** Google Workspace (Gmail, Drive, Docs), 1M context, best free tier. **Perplexity:** Standalone research tool, $20/mo Pro. For users in Google's ecosystem: Gemini is deeply integrated. For researchers who want the best standalone research experience regardless of ecosystem: Perplexity.
+**Gemini:** Google Workspace (Gmail, Drive, Docs), 1M context, best free tier. **Perplexity:** Standalone research tool, $20/mo Pro. For a lot of users in Google's ecosystem: Gemini is deeply integrated. For researchers who want the strongest standalone research experience regardless of ecosystem: Perplexity.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Gemini for Google users; Perplexity for research-first users.</strong></p></div>
 
-## Key Differences
+## The Main Differences
 
 <div class="table-responsive">
 
@@ -67,11 +68,11 @@ faq:
 | **Multimodal** | ✅ Video, charts, images, audio | ❌ Text only |
 | **Citations** | Good | Best — every answer footnoted |
 | **Free tier** | Best free tier | Limited searches |
-| **Best for** | Broad AI + multimodal research | Professional research with verification |
+| **Best suited for** | Broad AI + multimodal research | Professional research with verification |
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">

@@ -10,24 +10,25 @@ ShowToc: true
 TocOpen: true
 faq:
   - question: "Should I use NotebookLM or Perplexity?"
-    answer: "Different jobs, both excellent. NotebookLM (8.5) grounds every answer in documents YOU upload — perfect for studying, analyzing contracts and reports, and writing about your own materials, with zero hallucinated facts. Perplexity (8.2) searches the live web with citations — perfect for current events, market research, and anything where the answer lives online. Use NotebookLM for your documents, Perplexity for the open web. Many researchers use both."
+    answer: "Different jobs. The original comparison favors NotebookLM for analysis of user-provided documents and Perplexity for open-web research. Citations can help verify answers but do not guarantee accuracy. Current features, limits, and plan details were not independently verified for this update."
   - question: "Which is better for research: NotebookLM or Perplexity?"
-    answer: "Perplexity is better for open-web research: current news, competitor analysis, quick factual questions — all cited and up-to-date. NotebookLM is better for closed-corpus research: analyzing your own PDFs, contracts, course materials, and reports, where hallucination is unacceptable and every claim must trace to a source you control. For mixed workflows — Perplexity to gather sources, NotebookLM to synthesize them — they pair exceptionally well."
+    answer: "The original comparison recommends Perplexity for research that depends on web sources and NotebookLM for synthesis grounded in supplied documents. Verify citations and dates yourself; neither workflow guarantees that every claim is accurate or current."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
     <strong>NotebookLM answers from your documents. Perplexity answers from the live web. Different tools, different jobs — and they pair beautifully.</strong><br><br>
-    NotebookLM (8.5/10) is a closed-corpus research assistant: upload your PDFs, docs, and links, and every answer is grounded in your sources with clickable citations. No hallucinated facts — if it's not in your sources, it says so.<br><br>
-    Perplexity (8.2/10) is an answer engine for the open web: current news, market research, competitor analysis — cited, real-time, up-to-date.<br><br>
-    <strong>The winning workflow for serious researchers: Perplexity to gather, NotebookLM to synthesize. Both are free to start.</strong>
+    NotebookLM (8.5/10) is positioned here for questions grounded in documents you provide. Its citations can lead you back to source passages, but do not guarantee that each answer is correct.<br><br>
+    Perplexity (8.2/10) is positioned here for open-web research. Check the linked sources and publication dates before treating a result as current.<br><br>
+    <strong>The original recommendation for mixed research is Perplexity to gather sources, then NotebookLM to synthesize them. Current plan access and limits should be checked directly.</strong>
   </p>
 </div>
 
-## Core Scoring
+## Scorecard at a Glance
 
 <div class="table-responsive">
 
@@ -40,15 +41,15 @@ faq:
 
 </div>
 
-## 3 Key Tests
+## 3 Tests That Matter
 
 ### Test 1: Analyzing Your Own Documents
-**Task:** Upload a 60-page contract and a 90-page annual report; ask for risks and contradictions. **NotebookLM:** Surgical — extracted the risk clauses, cross-referenced the report's statements against the contract, cited exact pages for every claim. **Perplexity:** Can't read files the same way — it can analyze uploaded PDFs but its strength isn't deep closed-corpus work; answers were shallower with less precise citations. For your own documents: NotebookLM wins clearly.
+**Task:** Upload a 60-page contract and a 90-page annual report; ask for risks and contradictions. **NotebookLM:** Surgical — extracted the risk clauses, cross-referenced the report's statements against the contract, cited exact pages for every claim. **Perplexity:** Can't read files the same way — it can analyze uploaded PDFs but its strength isn't deep closed-corpus work; answers were shallower with less precise citations. For your own documents: NotebookLM comes out ahead clearly.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>NotebookLM — closed-corpus analysis is its home turf.</strong></p></div>
 
 ### Test 2: Current Events and Market Research
-**Task:** "What are the latest developments in EU AI regulation this month, and how are companies responding?" **NotebookLM:** Could only answer from sources you already gave it — no live knowledge. **Perplexity:** Real-time, cited answer synthesized from this week's news, with links to verify. For anything where the answer lives on the live web: Perplexity wins by default.
+**Task:** "What are the latest developments in EU AI regulation this month, and how are companies responding?" **NotebookLM:** Could only answer from sources you already gave it — no live knowledge. **Perplexity:** Real-time, cited answer synthesized from this week's news, with links to verify. For anything where the answer lives on the live web: Perplexity comes out ahead by default.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Perplexity — live web answers with citations are its superpower.</strong></p></div>
 
@@ -57,7 +58,7 @@ faq:
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Both innovate — audio learning vs deep research reports.</strong></p></div>
 
-## Key Differences
+## The Main Differences
 
 <div class="table-responsive">
 
@@ -65,21 +66,21 @@ faq:
 |---|-----------|------------|
 | **Score** | 8.5 | 8.2 |
 | **Knowledge source** | Your uploaded documents | The live web |
-| **Hallucination risk** | Near zero (source-grounded) | Low (cited, but sources can err) |
-| **Best for** | Studying, contracts, reports, closed research | News, market research, open-web questions |
+| **Answer verification** | Citations can point to supplied sources; still review them | Citations can point to web sources; still review them |
+| **Best suited for** | Studying, contracts, reports, closed research | News, market research, open-web questions |
 | **Signature feature** | Audio Overviews | Deep Research |
-| **Price** | Free (Plus $19.99/mo) | Free (Pro $20/mo) |
+| **Price** | Check current official plans | Check current official plans |
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">
 
 ### 🏆 Choose NotebookLM if:
 - You analyze your own documents (contracts, reports, course materials)
-- Zero hallucination matters — every claim must be traceable
+- Zero hallucinations matter — the original recommendation emphasizes traceable sources, but source grounding does not guarantee error-free answers
 - You want podcast-style audio summaries
 - [NotebookLM Review →](/posts/notebooklm-review/)
 
@@ -96,7 +97,14 @@ faq:
 </div>
 
 ### Use both:
-Perplexity to research the web → save the best sources → upload them to NotebookLM → synthesize with citations and Audio Overviews. The two tools are complementary halves of a complete research stack.
+Perplexity to research the web → save the strongest sources → upload them to NotebookLM → synthesize with citations and Audio Overviews. The two tools are complementary halves of a complete research stack.
 
 ---
-*Last updated: August 22, 2026.*
+## Sources and verification
+
+Official references: [NotebookLM](https://notebooklm.google/), [NotebookLM Help](https://support.google.com/notebooklm/), [Google AI plans](https://one.google.com/about/google-ai-plans/), [Perplexity](https://www.perplexity.ai/), [Perplexity Help Center](https://www.perplexity.ai/help-center/).
+
+Checked October 31, 2026. Current prices, quotas, model details, and feature availability could not be verified because the official pages were inaccessible in the review environment. The original scores, weights, verdicts, recommendations, and test descriptions are preserved; the test results were not independently reproduced.
+
+---
+*Editorial data check: October 31, 2026.*

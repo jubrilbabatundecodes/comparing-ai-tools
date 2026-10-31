@@ -1,18 +1,18 @@
 ---
-title: About AI Tools Hub
+title: About AI TOOL CLUB
 date: 2026-06-01
 description: "We help developers, product managers, and AI enthusiasts pick the right AI tool through hands-on, unbiased comparisons. Learn about our methodology."
 layout: page
 ShowBreadCrumbs: true
 ---
 
-## Why AI Tools Hub?
+## Why AI TOOL CLUB?
 
-Every week, dozens of new AI tools launch. Keeping up is exhausting. **AI Tools Hub** cuts through the noise with hands-on, side-by-side comparisons that answer one question: *Which tool should you use for your specific task?*
+New AI tools arrive every week, making it difficult to separate useful options from the noise. **AI TOOL CLUB** puts tools side by side and focuses on the decision that matters: *Which one fits the task you need to do?*
 
 ## How We Test
 
-Every comparison on this site follows a standardized 6-section format and a category-specific scoring framework:
+Our comparisons use a consistent six-part format, paired with a scoring framework tailored to each category:
 
 ### Scoring Framework
 
@@ -25,20 +25,20 @@ Each category has 3 weighted dimensions, totaling 100%. Scores are 0–10 per di
 | **AI Writing Assistants** | Long-form Coherence (40%) | SEO & Keyword Optimization (30%) | Multi-language & Tone (30%) |
 | **AI Chatbots** | Accuracy (40%) | Helpfulness (35%) | Conversation Quality (25%) |
 
-*Weights are defaults and may be adjusted per comparison when a specific tool pair has a key differentiator. All adjustments are explicitly noted in the article.*
+*These are the default weights. We may adjust them when a particular comparison has a meaningful differentiator, and we document every adjustment in the article.*
 
 ### How Scores Are Determined
 
-1. **Public Benchmarks** — LMSYS Chatbot Arena, HumanEval, SWE-bench, industry evaluations
-2. **Community Consensus** — Reddit, Hacker News, official forums, designer communities
-3. **Hands-on Testing** — Running identical prompts across tools and comparing outputs
-4. **Documentation Analysis** — Pricing pages, technical docs, feature comparison
+1. **Public Benchmarks** — Results from LMSYS Chatbot Arena, HumanEval, SWE-bench, and industry evaluations
+2. **Community Consensus** — Feedback from Reddit, Hacker News, official forums, and designer communities
+3. **Hands-on Testing** — The same prompts run through each tool, followed by a comparison of the results
+4. **Documentation Analysis** — Pricing pages, technical documentation, and feature-by-feature comparisons
 
-When hands-on testing data isn't available (e.g., for paywalled features), we cite our sources explicitly. All articles include a **Data Sources** section describing where the assessments come from.
+If we cannot test a feature directly—for example, because it is paywalled—we cite the supporting sources. Every article has a **Data Sources** section that explains the basis for its assessment.
 
 ### Article Structure
 
-Every comparison article follows the same 6 sections:
+Each comparison article is organized into these six sections:
 
 1. **TL;DR** — One-paragraph verdict on who each tool is for
 2. **Core Scoring** — Weighted dimension table + aggregate scores
@@ -49,19 +49,20 @@ Every comparison article follows the same 6 sections:
 
 ## Transparency
 
-- **Affiliate links**: Some links to AI tools may earn us a commission at no extra cost to you. Articles with affiliate links include a disclosure notice at the bottom.
-- **No sponsored reviews**: We do not accept payment for favorable placement. Our verdicts are our own.
-- **Prices current**: We update pricing tables at least once per quarter. Last updated: June 2026.
-- **Methodology public**: Our scoring framework and weight adjustments are documented in every article and on this page.
-- **Corrections**: If you find outdated pricing or incorrect information, [open an issue on GitHub](https://github.com/Linanxi12/aitoolscompare/issues) and we'll fix it — usually within 48 hours.
+- **Affiliate links**: Links to some AI tools may generate a commission for us, at no additional cost to you. We disclose affiliate links at the end of the relevant article.
+- **No sponsored reviews**: We don't take payment in exchange for a favorable score or placement; our conclusions are independent.
+- **Prices current**: Pricing tables are reviewed at least quarterly. Last updated: June 2026.
+- **Methodology public**: Each article and this page explain our scoring approach and any changes to category weights.
+- **Corrections**: Spotted an outdated price or factual error? [Open a GitHub issue](https://github.com/jubrilbabatundecodes/ComparingAItools/issues); we typically correct verified issues within 48 hours.
 
 ## Who Runs This
 
-AI Tools Hub is built and maintained by **Guan Haoran**（管浩然）, an independent developer based in China. I've been working with AI tools since 2023 — building applications, comparing models, and trying to figure out which tools are actually worth paying for.
+**Babatunde Jubril** independently creates and maintains AI TOOL CLUB. The site is a personal project focused on helping readers make informed choices among AI tools.
 
-No VC funding, no content farm, no AI-generated filler — just honest comparisons written by someone who uses these tools daily.
+The comparisons reflect Babatunde's own research and editorial judgment; the site is not a team or company publication.
 
-- **GitHub:** [@Linanxi12](https://github.com/Linanxi12)
-- **Email:** contact@aitools-hub.xyz
+- **Creator:** [Babatunde Jubril on GitHub](https://github.com/jubrilbabatundecodes)
+- **Project repository:** [AI TOOL CLUB](https://github.com/jubrilbabatundecodes/ComparingAItools)
+- **Email:** [jubrilbabatunde2001@gmail.com](mailto:jubrilbabatunde2001@gmail.com)
 
-If you have suggestions or want a specific tool compared, [contact us](/contact/).
+Have an idea or a pair of tools you'd like us to compare? [Get in touch](/contact/).

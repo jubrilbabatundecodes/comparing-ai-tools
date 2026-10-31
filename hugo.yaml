@@ -1,6 +1,6 @@
-baseURL: https://aitools-hub.xyz/
+baseURL: https://aitoolclub.xyz/
 locale: en-us
-title: AI Tools Hub
+title: AI TOOL CLUB
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -13,9 +13,9 @@ summaryLength: 55
 
 params:
   env: production
-  title: AI Tools Hub
+title: AI TOOL CLUB
   description: >-
-    In-depth, unbiased comparisons of the best AI tools for coding, writing,
+    AI TOOL CLUB helps you compare the best AI tools for coding, writing,
     image generation, and more. Save time and money — find the right tool for
     your specific needs.
   keywords:
@@ -26,7 +26,7 @@ params:
     - AI image generator
     - chatbot comparison
     - Claude vs GPT
-  author: AI Tools Hub
+  author: Babatunde Jubril
   DateFormat: January 2, 2006
   defaultTheme: auto
   disableThemeToggle: false
@@ -54,7 +54,7 @@ params:
   # Social links (footer + header)
   socialIcons:
     - name: github
-      url: https://github.com/Linanxi12/aitoolscompare
+      url: https://github.com/jubrilbabatundecodes
     - name: rss
       url: /index.xml
 
@@ -65,14 +65,14 @@ params:
 
   # Schema.org / SEO
   schema:
-    type: Organization
-    name: AI Tools Hub
-    url: https://aitools-hub.xyz/
-    logo: https://aitools-hub.xyz/apple-touch-icon.png
+    type: Person
+    name: Babatunde Jubril
+    url: https://aitoolclub.xyz/
+    image: https://aitoolclub.xyz/apple-touch-icon.png
 
   # Edit post link (optional)
   editPost:
-    URL: https://github.com/Linanxi12/aitoolscompare/blob/main/content
+    URL: https://github.com/jubrilbabatundecodes/ComparingAItools/blob/main/content
     Text: Suggest Changes
     appendFilePath: true
 

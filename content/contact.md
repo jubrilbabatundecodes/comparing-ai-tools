@@ -1,34 +1,34 @@
 ---
 title: Contact
 date: 2026-06-01
-description: "Get in touch with AI Tools Hub. Suggest a comparison, report an error, or just say hello."
+description: "Get in touch with AI TOOL CLUB. Suggest a comparison, report an error, or just say hello."
 layout: page
 ShowBreadCrumbs: true
 ---
 
-## Get in Touch
+## Contact Us
 
-Have a suggestion for a tool comparison? Found outdated pricing? Want to contribute? We'd love to hear from you.
+Let us know if you have a comparison idea, spot pricing that needs an update, or would like to contribute.
 
 ### GitHub
 
-The easiest way to reach us is through GitHub:
+GitHub is the most direct way to get in touch:
 
-- [Open an issue](https://github.com/Linanxi12/aitoolscompare/issues) — suggest a comparison, report a bug, or request a feature.
-- [Submit a pull request](https://github.com/Linanxi12/aitoolscompare) — fix a typo, update pricing, or add new content.
+- [Open an issue](https://github.com/jubrilbabatundecodes/ComparingAItools/issues) to propose a comparison, flag a problem, or request a feature.
+- [Submit a pull request](https://github.com/jubrilbabatundecodes/ComparingAItools) to correct a typo, refresh pricing, or contribute content.
 
 ### Email
 
-You can also email us at: **contact@aitools-hub.xyz**
+Email Babatunde Jubril at **[jubrilbabatunde2001@gmail.com](mailto:jubrilbabatunde2001@gmail.com)**.
 
-We aim to respond within 2-3 business days.
+We typically reply within 2–3 business days.
 
 ### Suggest a Comparison
 
-Want us to compare two AI tools? Include:
+For a comparison request, please tell us:
 
 - The tools you want compared
 - The use case (coding, writing, image gen, etc.)
 - Any specific dimensions you care about (price, accuracy, speed, etc.)
 
-We prioritize suggestions that get the most requests!
+Requests that come up most often are given priority.

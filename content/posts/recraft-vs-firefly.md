@@ -11,21 +11,22 @@ TocOpen: true
 faq:
   - question: "Should I use Recraft or Adobe Firefly?"
     answer: "Recraft (7.6) is better for logo/brand asset creation requiring editable vector/SVG output. Firefly (8.2) is better for commercial image generation requiring legal safety and Photoshop integration. For vector design: Recraft's unique SVG generation is unmatched. For commercial imagery and Generative Fill: Firefly is the safer, more integrated choice."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
     <strong>Firefly is the better general image tool. Recraft has a unique superpower: vector generation.</strong><br><br>
-    Adobe Firefly (8.2/10) wins on image quality, Generative Fill, commercial safety (enterprise indemnification), and Photoshop integration. It's the safer, more professional choice for commercial imagery.<br><br>
+    Adobe Firefly (8.2/10) comes out ahead on image quality, Generative Fill, commercial safety (enterprise indemnification), and Photoshop integration. It's the safer, more professional choice for commercial imagery.<br><br>
     Recraft (7.6/10) does something no other AI design tool offers: generating editable SVG/vector graphics from text prompts. For logos, icons, and brand assets that must scale infinitely: Recraft is uniquely valuable.<br><br>
     <strong>For commercial imagery and Photoshop workflows: Firefly. For vector design assets: Recraft.</strong>
   </p>
 </div>
 
-## Core Scoring
+## Scorecard at a Glance
 
 <div class="table-responsive">
 
@@ -38,7 +39,7 @@ faq:
 
 </div>
 
-## 3 Key Tests
+## 3 Tests That Matter
 
 ### Test 1: Logos and Icons
 **Recraft:** Generates editable SVG — clean paths, proper layers, scalable to any size, import into Figma/Illustrator. Unique in AI design. **Firefly:** Generates raster images (PNG) — good quality, non-editable as vectors. For vector assets: Recraft.
@@ -55,7 +56,7 @@ faq:
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Firefly — Generative Fill has no competitor, including Recraft.</strong></p></div>
 
-## Key Differences
+## The Main Differences
 
 <div class="table-responsive">
 
@@ -69,7 +70,7 @@ faq:
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">

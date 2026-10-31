@@ -11,6 +11,7 @@ TocOpen: true
 faq:
   - question: "Should I use Claude Code or GitHub Copilot?"
     answer: "They solve different problems. Copilot (8.0) is ambient AI — inline completions as you type, deeply integrated into VS Code/JetBrains, and the most widely adopted AI coding tool at $10/month. Claude Code (8.8) is intentional AI — invoked from the terminal for complex multi-file tasks, with direct shell access (runs commands, reads output, fixes errors autonomously), and works with any editor. The best setup: Copilot for ambient completions + Claude Code for complex tasks. They're complementary, not competing."
+author: Babatunde Jubril
 ---
 
 ## TL;DR: Quick Verdict ⚡
@@ -20,7 +21,7 @@ faq:
   <p class="verdict-text">
     <strong>Copilot is ambient AI — always on, woven into your editor. Claude Code is intentional AI — invoked for specific tasks, works anywhere.</strong><br><br>
     GitHub Copilot (8.0/10) is the most widely used AI coding tool — 1.3M+ paid users, inline completions that feel like autocomplete, deep VS Code/JetBrains integration, and multi-model support at $10/month. For flow-state coding: Copilot is the default.<br><br>
-    Claude Code (8.8/10) is the more powerful but more intentional tool — Claude Opus 4 by default, direct shell access (can run commands and fix errors), IDE-agnostic (works with any editor), and agentic multi-file editing. For complex tasks and terminal-native developers: Claude Code is the better tool.<br><br>
+    Claude Code (8.8/10) is the more powerful yet more intentional tool — Claude Opus 4 by default, direct shell access (can run commands and fix errors), IDE-agnostic (works with any editor), and agentic multi-file editing. For complex tasks and terminal-native developers: Claude Code is the better tool.<br><br>
     <strong>Copilot for always-on completions. Claude Code for when you need an AI that thinks and acts.</strong>
   </p>
 </div>
@@ -40,25 +41,25 @@ faq:
 
 ## 3 Key Tests 🔬
 
-### Test 1: Day-to-Day Coding
+### Test 1: Everyday Coding
 
-**Copilot:** Inline completions appear as you type — ghost text that feels like intelligent autocomplete. This is Copilot's superpower: AI so ambient you forget it's there. **Claude Code:** No inline completions. Invoked intentionally. For flow-state coding: Copilot's ambient AI is the better experience.
+**Copilot:** Inline completions appear as you type — ghost text that feels like intelligent autocomplete. This is Copilot's superpower: AI so ambient you forget it is there. **Claude Code:** No inline completions. Invoked intentionally. For flow-state coding: Copilot's ambient AI is the better experience.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Copilot — ambient completions are its defining advantage.</strong></p></div>
 
-### Test 2: Complex Multi-File Tasks
+### Test 2: Complex Work Across Multiple Files
 
 **Task:** "Add rate limiting to all API endpoints." **Claude Code:** Read the project, implemented across 12 files, ran `npm test` to verify, installed missing dependency, committed. Closed the loop autonomously. **Copilot:** Excellent inline suggestions per file, but can't execute commands or close the test → fix → verify loop.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Claude Code — shell access turns AI from suggester into agent.</strong></p></div>
 
-### Test 3: Editor Freedom
+### Test 3: Freedom to Choose an Editor
 
 **Claude Code:** Works with any editor — Neovim, VS Code, JetBrains, Helix, Emacs. Terminal-native means filesystem-level. **Copilot:** VS Code, JetBrains, Neovim (community). Excellent within its supported editors; non-existent elsewhere.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Claude Code for editor independence; Copilot for deep IDE integration.</strong></p></div>
 
-## Key Differences
+## Where the Tools Differ
 
 <div class="table-responsive">
 
@@ -99,9 +100,12 @@ faq:
 </div>
 </div>
 
-### The ideal setup: Use both.
+### A Strong Setup: Use Both
 
 Copilot for ambient inline completions (always on, woven into your typing). Claude Code for complex multi-file tasks, debugging loops, and when you need AI that can execute commands. Together: the best AI development experience available.
 
 ---
 *Last updated: July 4, 2026.*
+
+
+<p><strong>Data Sources - current verification (review date: 2026-10-31):</strong> Current model/version availability, pricing, plan features, quotas, and product capabilities were not verified against authoritative current sources for this update; these claims need verification. No current-source citation is provided.</p>

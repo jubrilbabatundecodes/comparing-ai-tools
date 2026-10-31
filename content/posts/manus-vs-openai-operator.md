@@ -1,44 +1,25 @@
 ---
-title: "Manus vs OpenAI Operator: General AI Agents for Real-World Tasks (June 2026)"
+title: "Manus vs OpenAI Operator: A Historical Comparison of AI Agents"
 date: 2026-06-23
-lastmod: 2026-06-27
+lastmod: 2026-10-31
 draft: false
-description: "Head-to-head: Manus (viral general-purpose AI agent) vs OpenAI Operator (browser task automation). Real tests on research, data tasks, and web automation — which agent handles real-world productivity?"
+description: "A comparison of Manus and OpenAI Operator based on previously reported agent tests; current product status and access are unverified."
 categories: ["agent"]
 tags: ["Manus", "OpenAI", "Operator", "AI agent", "comparison", "task automation"]
 affiliateNote: "Some links may earn us a commission at no extra cost to you."
 ShowToc: true
 TocOpen: true
 faq:
-  - question: "Is Manus better than OpenAI Operator?"
-    answer: "Manus (8.1) is more capable and more ambitious — it handles research, data analysis, coding, and content creation across multiple domains. OpenAI Operator (7.5) is more reliable but narrower — it's optimized for browser-based automation (forms, data extraction, web navigation). Manus wins on capability breadth; Operator wins on reliability within its scope. For complex multi-domain tasks: Manus. For reliable web automation and if you already have ChatGPT Pro: Operator."
-  - question: "How much does Manus cost?"
-    answer: "Manus pricing is credits-based and still evolving (as of June 2026). It requires a separate Manus.im account, and the waitlist is being phased out. OpenAI Operator is included with ChatGPT Pro at $20/month — no additional cost for existing subscribers. If you primarily need browser automation and already pay for ChatGPT Pro, Operator is effectively free. If you need broader agent capabilities spanning research, data analysis, and content creation, Manus may be worth the separate subscription."
+  - question: "What should readers know about the current product details?"
+    answer: "The original evaluation scores Manus 8.1 and Operator 7.5, favoring Manus for broader research tasks and Operator for focused browser automation. This is a historical comparison; current Operator availability and Manus plan details are unverified."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Scope and status
 
-<div class="verdict-box">
-  <div class="verdict-label">⚡ Bottom Line</div>
-  <p class="verdict-text">
-    <strong>Manus is more ambitious and more capable. Operator is more reliable but narrower.</strong><br><br>
-    Manus (8.1/10) is the most capable general-purpose AI agent available to the public. It can handle multi-step tasks spanning research, data analysis, coding, and content creation — all in a single workflow. The execution is impressive; the reliability is still maturing.<br><br>
-    OpenAI Operator (7.5/10) is a focused browser automation agent. It navigates websites, fills forms, extracts data, and automates web-based workflows with higher consistency than Manus — but it's scoped to what a browser can do. Deep analysis, file handling, and cross-domain tasks are outside its wheelhouse.<br><br>
-    <strong>Use Manus for ambitious, multi-domain tasks. Use Operator for reliable, browser-based automation.</strong> Both tools are early-stage and improving rapidly.
-  </p>
-</div>
+This article preserves an earlier comparison of Manus and OpenAI Operator. Operator was described as a browser-focused agent; the old copy's current-access and subscription claims are not repeated. The present status of Operator as a standalone product and the relationship to newer OpenAI agent features were not verifiable during this update. Treat the results below as historical, not as a current buying guide.
 
-## What Are General-Purpose AI Agents?
-
-Most AI tools are assistants — you give input, they give output, and the interaction ends. AI agents are different: they take a goal, plan the steps needed to reach it, execute those steps using tools (web search, code execution, file manipulation, browser control), evaluate the results, and continue until the task is done or they get stuck.
-
-The key difference is tool use and persistence. A chatbot answers a question. An agent can research a topic across 15 websites, compile the findings into a spreadsheet, identify gaps, search for more information, and write a summary — all from a single instruction.
-
-Manus and OpenAI Operator both operate in this space, but they've made different bets on scope, reliability, and use case.
-
-## Core Scoring 📊
-
-<div class="table-responsive">
+## Core scoring
 
 | Dimension | Manus | OpenAI Operator |
 |-----------|-------|----------------|
@@ -47,28 +28,9 @@ Manus and OpenAI Operator both operate in this space, but they've made different
 | **Execution Quality (25%)** | 7.5 — powerful but occasionally unreliable | 8.5 — high consistency within its defined scope |
 | **Weighted Total** | **8.1 / 10** | **7.5 / 10** |
 
-</div>
+## Reported tests
 
-<div class="score-cards">
-<div class="score-card winner-card">
-  <div class="tool-name">🏆 Most Capable Agent</div>
-  <div class="tool-name">Manus</div>
-  <div class="score-number">8.1</div>
-  <div class="score-label">Weighted Score</div>
-</div>
-<div class="score-card winner-card">
-  <div class="tool-name">🏆 Most Reliable (Scoped)</div>
-  <div class="tool-name">OpenAI Operator</div>
-  <div class="score-number">7.5</div>
-  <div class="score-label">Weighted Score</div>
-</div>
-</div>
-
-## 5 Real-World Task Tests 🔬
-
-<div class="source-citation">
-  <strong>Data Sources:</strong> Official Manus and OpenAI documentation, community feedback (r/ManusAI, r/OpenAI, Hacker News, X/Twitter), our own testing across all 5 scenarios.
-</div>
+The previously reported test prompts, results, and verdicts are retained below. Original prompts, generated outputs, and run logs were not available for independent reproduction during this update; treat these as unverified editorial observations.
 
 ### Test 1: Competitive Research Report
 
@@ -145,80 +107,15 @@ Manus and OpenAI Operator both operate in this space, but they've made different
   </p>
 </div>
 
-## Feature Comparison
+## Recommendation
 
-<div class="table-responsive">
+The historic verdict remains: Manus for multi-domain research and assembly; Operator for focused browser automation. Do not select a product based on this comparison until you confirm that the relevant service is still available, supported in your region, and included in a current plan. Current pricing is not stated because it could not be verified.
 
-| Feature | Manus | OpenAI Operator |
-|---------|-------|----------------|
-| **Task scope** | Multi-domain (research, code, data, content) | Web browser automation |
-| **Tool use** | Web search, code execution, file handling, browser | Browser navigation, form filling, data extraction |
-| **Autonomy level** | High — plans independently | Medium — predictable within guardrails |
-| **Data analysis** | Yes — code execution | No |
-| **Self-correction** | Yes — adapts when steps fail | Limited |
-| **Login handling** | Workarounds via alternate sources | Requires pre-authenticated sessions |
-| **Output formats** | Reports, tables, code, files | Text summaries, structured data |
-| **Access** | Web app (account required) | ChatGPT Pro subscribers only |
+## Sources and verification
 
-</div>
+Official references: [Manus](https://manus.im/), [Manus help center](https://manus.im/help), [OpenAI Operator announcement](https://openai.com/index/introducing-operator/), [ChatGPT agent announcement](https://openai.com/index/introducing-chatgpt-agent/)
 
-## Pricing & Access
-
-<div class="table-responsive">
-
-| | Manus | OpenAI Operator |
-|-|-------|----------------|
-| **Access** | Manus.im account (waitlist being removed) | Included in ChatGPT Pro ($20/mo) |
-| **Pricing model** | Credits-based (pricing evolving) | Included in existing ChatGPT Pro subscription |
-| **Best value for** | Users who need multi-domain agent capability | ChatGPT Pro subscribers who want browser automation |
-
-</div>
-
-**Practical note:** If you already subscribe to ChatGPT Pro at $20/month, Operator costs you nothing extra. Manus requires a separate account and its own pricing. For users who primarily need browser-based automation and already have ChatGPT Pro, Operator is effectively free. For users who need broader agent capability, Manus is worth the additional cost.
-
-## Pros & Cons
-
-<div class="table-responsive">
-
-| | Manus | OpenAI Operator |
-|--|-------|----------------|
-| ✅ | Most capable general agent available | Reliable browser automation |
-| ✅ | Multi-domain: research, code, data, content | Included in ChatGPT Pro |
-| ✅ | Handles workarounds when steps fail | Clear, predictable behavior |
-| ✅ | Strong research-to-output workflows | Lower failure rate within scope |
-| ❌ | Still maturing — occasional reliability gaps | Narrow scope — browser only |
-| ❌ | Separate pricing on top of existing tools | Can't handle data analysis or code tasks |
-| ❌ | Complex tasks can drift or hallucinate | Limited self-correction |
-| ❌ | Early-stage product — features changing | Weaker on tasks requiring synthesis |
-
-</div>
-
-## Final Recommendation
-
-<div class="pros-cons-grid">
-<div class="pros-box">
-
-### 🏆 Choose Manus if:
-- You need a general-purpose agent for complex, multi-step tasks
-- Your work involves research, data analysis, content creation, or code — often in combination
-- You're willing to work with a tool that's powerful but still maturing
-- Reliability can be spot-checked rather than assumed
-
-</div>
-<div class="pros-box">
-
-### 🏆 Choose OpenAI Operator if:
-- You need reliable browser automation for specific, repeatable tasks
-- You already subscribe to ChatGPT Pro and want no additional cost
-- Your automation needs are browser-based: research, forms, data extraction, web navigation
-- Predictability matters more than capability breadth
-
-</div>
-</div>
-
-### Both together:
-
-The tools are complementary rather than competitive for power users. Operator handles reliable web tasks; Manus handles everything else. If budget allows, using both is a reasonable approach for teams building automation workflows.
+Checked 2026-10-31. Current standalone availability, plan access, quotas and successor features are unverified. Scores, weights, winners, recommendations and prior test claims are preserved as historical editorial findings.
 
 ---
-*Last updated: June 27, 2026. Both tools are in active development — features and pricing may evolve.*
+*Editorial data check: October 31, 2026.*

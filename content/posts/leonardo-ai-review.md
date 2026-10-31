@@ -13,28 +13,29 @@ faq:
     answer: "Leonardo AI is best at game asset generation — character designs, environment concept art, item icons, texture generation, and isometric tiles. Its fine-tuned models (Leonardo Diffusion XL, Anime, RPG, Isometric) are purpose-built for creative production workflows, not general-purpose image generation. It also excels at iterative design through AI Canvas (inpainting, outpainting, real-time editing) and offers 250 free tokens per day — one of the most generous free tiers in the AI image category. For game developers, indie creators, and concept artists, Leonardo is the most specialized AI image tool available."
   - question: "Is Leonardo AI free?"
     answer: "Yes, Leonardo AI offers 250 free tokens per day — enough for roughly 50-125 image generations depending on resolution and settings. The free tier includes access to most fine-tuned models, AI Canvas, and community features. Paid plans: Apprentice ($12/month, 8,500 tokens), Artisan ($30/month, 25,000 tokens), Maestro ($60/month, 60,000 tokens). For casual creators experimenting with AI image generation, the free tier is substantial. For professional production, the $12-30/month tiers provide enough tokens for consistent workflow use."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## TL;DR: The Short Answer ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
-    <strong>Leonardo AI is the most specialized AI image tool — and for game developers, it's the best.</strong> It scores 7.9/10 overall, ranking behind Midjourney (8.8) and DALL-E 3 (8.3) on general image quality but ahead for its target use case: game asset production and creative iteration.<br><br>
-    Unlike Midjourney (which optimizes for aesthetic beauty) or DALL-E (which optimizes for prompt understanding), Leonardo optimizes for creative workflow. AI Canvas lets you inpaint, outpaint, and edit in real-time. Fine-tuned models are purpose-built for specific styles — RPG characters, isometric tiles, anime scenes, 3D renders. The 250 free daily tokens make it the most accessible tool for experimentation.<br><br>
-    <strong>For general AI image generation: Midjourney or DALL-E. For game assets, concept art, and creative production: Leonardo AI is the right tool.</strong>
+    <strong>Leonardo AI is a highly specialized image platform and the strongest fit here for game developers.</strong> Its overall score is 7.9/10, below Midjourney (8.8) and DALL-E 3 (8.3) for general image quality but better aligned with game assets and iterative creative work.<br><br>
+    Where Midjourney emphasizes aesthetics and DALL-E focuses on interpreting prompts, Leonardo centers the production workflow. AI Canvas supports real-time editing, inpainting, and outpainting, while fine-tuned models target styles such as RPG characters, isometric tiles, anime, and 3D renders. Its 250 free tokens per day also make it accessible for experimentation.<br><br>
+    <strong>For broad image generation, consider Midjourney or DALL-E; for game assets, concept art, and production iteration, Leonardo is the more fitting choice.</strong>
   </p>
 </div>
 
-## What Makes Leonardo Different
+## What Sets Leonardo Apart
 
-Leonardo AI was founded in 2022 with a specific thesis: general-purpose AI image generators (Midjourney, DALL-E) serve broad audiences well, but creative professionals — game developers, concept artists, illustrators — need tools built for production workflows, not one-off image generation.
+Founded in 2022, Leonardo AI was built around a focused idea: broad image generators such as Midjourney and DALL-E work for many people, but game developers, concept artists, and illustrators often need production tools rather than one-off image creation.
 
-This thesis shaped every feature decision:
+That focus is reflected throughout its feature set:
 
-- **Fine-tuned models** instead of one general model. Leonardo offers platform-specific models (Leonardo Diffusion XL for photorealism, Leonardo Anime for animation-style art, Leonardo RPG for character designs, Leonardo Isometric for game tiles). Each model is optimized for a specific creative domain.
-- **AI Canvas** instead of text-to-image-only. The Canvas is a real-time editing environment where you can select areas to regenerate (inpainting), extend images beyond their borders (outpainting), sketch rough layouts and have AI refine them, and compose scenes from multiple generated elements.
-- **Production workflow** instead of one-shot generation. You can generate variations, iterate on specific regions, upscale final outputs, remove backgrounds, and export in game-ready formats — all within one tool.
+- **Domain-tuned models rather than one general model.** Options include Leonardo Diffusion XL for photorealism, Leonardo Anime for animation-style art, Leonardo RPG for character designs, and Leonardo Isometric for game tiles. Each model targets a particular creative field.
+- **AI Canvas alongside text-to-image generation.** The real-time editor can regenerate selected areas (inpainting), extend an image (outpainting), refine a rough sketch, and combine multiple generated elements into a scene.
+- **A production workflow rather than one-shot output.** Users can create variations, revise selected regions, upscale images, remove backgrounds, and export game-ready formats without leaving the tool.
 
 ## Leonardo AI Scorecard 📊
 
@@ -64,19 +65,19 @@ This thesis shaped every feature decision:
 </div>
 </div>
 
-## 4 Real-World Production Tests 🔬
+## Four Real-World Production Tests 🔬
 
 <div class="source-citation">
   <strong>Data Sources:</strong> Leonardo AI official documentation, community galleries and feedback (r/LeonardoAI, Discord, game dev forums), our own testing across all scenarios. Scores cross-referenced with published image tool comparisons.
 </div>
 
-### Test 1: RPG Character Design
+### Test 1: Designing an RPG Character
 
 **Task:** "Generate a dark elf rogue character — hooded cloak, dual-wielding daggers, standing in a moonlit alley. Fantasy art style, character concept sheet quality."
 
-**Leonardo (RPG model):** Generated a striking character design with the dark elf's distinctive features clearly rendered, appropriate costume detail, and atmospheric moonlight. The RPG model understood character design conventions — full-body framing, clear silhouette, costume details. Generated 4 variations, 2 of which were directly usable as concept art references.
+**Leonardo (RPG model):** The result gave the dark elf distinct features, detailed clothing, and atmospheric moonlight. The RPG model followed character-design conventions, including a full-body view, clear silhouette, and visible costume elements. Of four variations, two worked directly as concept-art references.
 
-**Midjourney:** Generated a more aesthetically beautiful image — better lighting, more dramatic composition. But the character felt more like an illustration and less like a concept sheet. Fewer generation controls. Beautiful output; less production-focused.
+**Midjourney:** Its image was more beautiful, with stronger lighting and a more dramatic composition. It read more like a finished illustration than a concept sheet, however, and offered fewer generation controls. The output was attractive but less geared to production.
 
 <div class="verdict-box">
   <div class="verdict-label">📝 Verdict</div>
@@ -85,13 +86,13 @@ This thesis shaped every feature decision:
   </p>
 </div>
 
-### Test 2: Isometric Game Tiles
+### Test 2: Creating Isometric Game Tiles
 
 **Task:** "Generate isometric game tiles for a fantasy village — a blacksmith building, a tavern, a marketplace stall, and a small bridge. Consistent art style, suitable for a 2.5D game."
 
-**Leonardo (Isometric model):** Generated all four building tiles with consistent isometric perspective, lighting direction, and art style. The tiles could be placed adjacent to each other in a game engine with minimal adjustment. The special-purpose model's understanding of isometric projection was accurate — no perspective drift.
+**Leonardo (Isometric model):** All four buildings shared a consistent isometric angle, lighting, and style. They could sit next to each other in a game engine with little adjustment. The specialized model handled the projection accurately, without perspective drift.
 
-**DALL-E 3:** Generated visually appealing individual buildings but perspective was inconsistent across the four tiles (one was near-isometric, one more top-down, two in 3/4 perspective). Required significant manual adjustment to work as game tiles.
+**DALL-E 3:** Each building looked appealing on its own, but the four perspectives did not match: one was close to isometric, one was more top-down, and two used a three-quarter view. Making them work as a tile set required substantial manual correction.
 
 <div class="verdict-box">
   <div class="verdict-label">📝 Verdict</div>
@@ -100,13 +101,13 @@ This thesis shaped every feature decision:
   </p>
 </div>
 
-### Test 3: AI Canvas Iteration
+### Test 3: Iterating with AI Canvas
 
 **Task:** Take a generated landscape image. Replace the sky with a sunset, add a castle in the distance on a hill, and extend the canvas to widescreen format for a game splash screen.
 
-**Leonardo (AI Canvas):** Selected the sky area, prompted "golden hour sunset with orange and purple clouds" — sky replaced seamlessly. Selected a distant hill area, prompted "medieval castle silhouette with towers" — castle appeared, lighting consistent with the new sunset. Used outpainting to extend the canvas on both sides, filling in landscape that matched the original style. Total time: ~8 minutes. Final output: widescreen splash screen, no external editing tool needed.
+**Leonardo (AI Canvas):** Selecting the sky and requesting a "golden hour sunset with orange and purple clouds" replaced it smoothly. A second selection on a distant hill and the prompt "medieval castle silhouette with towers" added a castle whose lighting matched the sunset. Outpainting extended the landscape on both sides in the same style. The full edit took about eight minutes and produced a widescreen splash screen without another editor.
 
-**Firefly (Generative Fill in Photoshop):** Could handle the sky and castle inpainting well (arguably better on the sky, which had more realistic light). Outpainting to widescreen required switching tools. End result similar quality, took ~12 minutes and required Photoshop.
+**Firefly (Generative Fill in Photoshop):** It handled the sky and castle edits well, and arguably gave the sky more realistic light. Extending to widescreen meant switching tools. The result was similar in quality, took about 12 minutes, and required Photoshop.
 
 <div class="verdict-box">
   <div class="verdict-label">📝 Verdict</div>
@@ -115,13 +116,13 @@ This thesis shaped every feature decision:
   </p>
 </div>
 
-### Test 4: Free Tier Viability
+### Test 4: Is the Free Tier Useful?
 
 **Task:** A week of casual game asset prototyping using only the free tier (250 tokens/day).
 
-**Leonardo free tier:** 250 daily tokens translates to roughly 50-125 images depending on resolution (fast mode ~2 tokens/image, quality mode ~5 tokens). For a solo indie dev prototyping character concepts and environment art: this is sufficient for meaningful work. You won't generate every asset you need, but you'll get through concepting and early prototyping without paying.
+**Leonardo free tier:** The daily 250-token allowance works out to roughly 50–125 images, depending on resolution (about two tokens per image in fast mode and five in quality mode). A solo indie developer can use that for meaningful character and environment prototyping. It will not cover every final asset, but can carry a project through concepting and early tests at no cost.
 
-Compare to Midjourney (no free tier after trial, $10/month minimum) and DALL-E (limited free generations in ChatGPT). Leonardo's free tier is the most generous in the specialized AI image category.
+Midjourney has no free tier after its trial and costs at least $10/month; DALL-E offers limited free generations through ChatGPT. Leonardo's allowance is the most generous among specialized AI image tools.
 
 <div class="verdict-box">
   <div class="verdict-label">📝 Verdict</div>
@@ -130,11 +131,11 @@ Compare to Midjourney (no free tier after trial, $10/month minimum) and DALL-E (
   </p>
 </div>
 
-## Key Features Deep Dive
+## Leonardo's Key Features
 
 ### Fine-Tuned Model Library
 
-Leonardo's core differentiator is its collection of fine-tuned models, each optimized for specific creative domains:
+Leonardo's collection of fine-tuned models is central to its appeal, with each option tailored to a different creative domain:
 
 <div class="table-responsive">
 
@@ -149,18 +150,18 @@ Leonardo's core differentiator is its collection of fine-tuned models, each opti
 
 </div>
 
-The model selection is not a gimmick — switching between them produces meaningfully different outputs for the same prompt. For teams that need consistent art direction across many assets, the ability to lock into a specific model is more valuable than a single model that does everything adequately.
+Choosing a model changes the result in meaningful ways even when the prompt stays the same. Teams maintaining consistent art direction across many assets may find that ability to stay with one model more useful than a general model that handles every style adequately.
 
 ### AI Canvas
 
-The AI Canvas is Leonardo's answer to the "generate → download → edit in another tool → re-upload" workflow that plagues most AI image tools. Key capabilities:
+AI Canvas keeps common revisions inside Leonardo instead of forcing users to generate, download, edit elsewhere, and upload again. Its main capabilities include:
 
 - **Inpainting** — select an area, describe the change, AI regenerates just that area
 - **Outpainting** — extend the canvas in any direction, AI fills the new area to match
 - **Sketch-to-Image** — rough layout drawing → AI refines into polished output
 - **Real-time generation** — see results update as you type prompt changes
 
-## How Leonardo Compares
+## Leonardo Compared with Other Tools
 
 <div class="table-responsive">
 
@@ -188,7 +189,7 @@ See [Best AI Image Tools 2026](/posts/best-ai-image-tools/) for the full ranking
 
 </div>
 
-Token usage: fast generation ~2 tokens/image, quality generation ~5 tokens, upscaling ~5-10 tokens, AI Canvas edits ~2-5 tokens per operation. At $12/month (Apprentice), a solo developer can generate ~1,700-4,200 images per month — more than enough for active game prototyping.
+Token use varies by task: fast generation is about two tokens per image, quality generation about five, upscaling five to 10, and AI Canvas edits two to five per operation. At $12/month on Apprentice, a solo developer can create roughly 1,700–4,200 images monthly—ample capacity for active game prototyping.
 
 ## Pros & Cons
 
@@ -205,7 +206,7 @@ Token usage: fast generation ~2 tokens/image, quality generation ~5 tokens, upsc
 
 </div>
 
-## Final Recommendation
+## Who Should Choose Leonardo AI?
 
 <div class="pros-cons-grid">
 <div class="pros-box">

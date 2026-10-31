@@ -13,9 +13,10 @@ faq:
     answer: "Veo 3 (8.4) wins overall. Its video quality is on par with Sora, but it adds native audio and speech generation — Sora still returns silent clips — plus easier access through Gemini. Sora 2 (7.8) remains better at complex multi-subject narrative scenes and benefits from OpenAI's ecosystem. For most creators: Veo 3. For complex narrative filmmaking with a separate audio workflow: Sora."
   - question: "Does Sora generate audio?"
     answer: "As of this writing, Sora 2 does not generate synchronized audio or speech natively — clips are silent, and creators add sound separately. Google's Veo 3 generates synchronized sound effects, ambient audio, and spoken dialogue in the same pass. This is the single biggest feature gap between the two flagship models."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Fast Verdict⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
@@ -23,11 +24,11 @@ faq:
     <strong>Veo 3 wins — mostly on audio. Sora still leads on complex scenes.</strong><br><br>
     Veo 3 (8.4/10) generates cinematic video AND synchronized sound, effects, and speech in one pass — a capability Sora 2 lacks entirely. It's also easier to access through Gemini's free tier.<br><br>
     Sora 2 (7.8/10) still handles complex multi-subject narrative scenes better than any competitor, and it plugs into OpenAI's ecosystem. But silent output and a $20 ChatGPT Plus requirement hurt it.<br><br>
-    <strong>For most creators in 2026: Veo 3. For complex narrative scenes with a pro audio workflow: Sora.</strong>
+    <strong>For most creators in 2026, Veo 3 is the better default. For complex multi-character storytelling with a separate audio workflow, Sora remains the sharper tool.</strong>
   </p>
 </div>
 
-## Core Scoring
+## Score Summary
 
 <div class="table-responsive">
 
@@ -41,7 +42,7 @@ faq:
 
 </div>
 
-## 3 Key Tests
+## Three Quick Tests
 
 ### Test 1: Cinematic Realism
 **Prompt:** "Slow push-in on a lighthouse during a storm, waves crashing, cinematic film look." **Veo 3:** Atmospheric, physically convincing water and light; the film grading looked intentional. **Sora 2:** Equally strong composition, slightly flatter lighting. Both produced footage you'd happily use in a film project — this round is a near-tie, with Veo a hair ahead on atmosphere.
@@ -73,7 +74,7 @@ faq:
 
 </div>
 
-## Final Recommendation
+## Who Should Pick This
 
 <div class="pros-cons-grid">
 <div class="pros-box">

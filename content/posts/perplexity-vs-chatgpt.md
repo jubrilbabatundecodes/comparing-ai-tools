@@ -13,21 +13,22 @@ faq:
     answer: "Perplexity — every answer comes with numbered footnotes linking to live sources you can verify. ChatGPT (with browsing) can also do research, but citations are less consistent and sources are harder to verify inline. For journalism, academic work, market research, and any task where knowing where information came from matters: Perplexity is the better research tool. For research that requires deep synthesis and analysis beyond source gathering: use Perplexity for fact-finding, then pass results to ChatGPT or Claude for synthesis."
   - question: "Can ChatGPT replace Perplexity?"
     answer: "Partially. ChatGPT's web browsing can search and cite sources, and Pro ($200/month) includes deeper research capabilities. But Perplexity's Pro Search is purpose-built for research — every answer is structured around sources, citations are always present and clickable, and the UX is optimized for research workflows rather than conversation. For casual research: ChatGPT's browsing is sufficient. For professional research where source verification matters: Perplexity is the better tool. For the best workflow: use both."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
     <strong>ChatGPT is the better all-around AI. Perplexity is the better research tool.</strong><br><br>
     ChatGPT/GPT-4o (8.8/10) is the most complete AI platform — text, images (DALL-E), voice mode, web browsing, Code Interpreter, custom GPTs, and a plugin ecosystem. Use ChatGPT when you need AI that does everything.<br><br>
-    Perplexity (8.2/10) does one thing better than anyone: research with verifiable sources. Every answer is footnoted with clickable links to where the information came from. This transparency makes Perplexity the default AI for journalists, researchers, students, and anyone whose work requires verifiable information.<br><br>
+    Perplexity (8.2/10) does one thing stronger than anyone: research with verifiable sources. Every answer is footnoted with clickable links to where the information came from. This transparency makes Perplexity the default AI for journalists, researchers, students, and anyone whose work requires verifiable information.<br><br>
     <strong>These tools are complementary, not competitive. Use Perplexity to gather sourced facts. Use ChatGPT to create, build, and explore.</strong>
   </p>
 </div>
 
-## Different Tools for Different Jobs
+## Different Tools, Different Jobs
 
 Perplexity and ChatGPT both answer questions — but they're built for fundamentally different users and workflows.
 
@@ -37,7 +38,7 @@ Perplexity and ChatGPT both answer questions — but they're built for fundament
 
 The way most professionals use them: Perplexity for the research phase (gathering facts, verifying claims, finding sources), ChatGPT for the creation phase (writing, coding, generating, analyzing).
 
-## Core Scoring 📊
+## Scorecard at a Glance 📊
 
 <div class="table-responsive">
 
@@ -65,7 +66,7 @@ The way most professionals use them: Perplexity for the research phase (gatherin
 </div>
 </div>
 
-## 4 Real-World Scenario Tests 🔬
+## 4 Tests That Matter in Practice That Matter 🔬
 
 <div class="source-citation">
   <strong>Data Sources:</strong> LMSYS Chatbot Arena (June 2026), community feedback (r/Perplexity, r/ChatGPT, Hacker News), our own testing. Both tools tested on their Pro/Plus tier.
@@ -131,7 +132,7 @@ The way most professionals use them: Perplexity for the research phase (gatherin
   </p>
 </div>
 
-## Key Differences at a Glance
+## The Main Differences at a Glance
 
 <div class="table-responsive">
 
@@ -145,7 +146,7 @@ The way most professionals use them: Perplexity for the research phase (gatherin
 | **Code execution** | ✅ Code Interpreter | ❌ No |
 | **Custom GPTs** | ✅ 3M+ community GPTs | ❌ No |
 | **Price** | $20/mo (Plus) | $20/mo (Pro) |
-| **Best for** | All-around AI, creation, platform breadth | Research, fact-checking, source verification |
+| **Best suited for** | All-around AI, creation, platform breadth | Research, fact-checking, source verification |
 
 </div>
 
@@ -162,7 +163,7 @@ The way most professionals use them: Perplexity for the research phase (gatherin
 
 </div>
 
-Both cost $20/month — the value comparison depends on what you need. ChatGPT Plus gives you a full AI platform (text, images, voice, code, browsing). Perplexity Pro gives you the best research experience with unlimited Pro Search. For professionals who do both research and creation: paying $40/month for both is often more productive than choosing one.
+Both cost $20/month — the value comparison depends on what you need. ChatGPT Plus gives you a full AI platform (text, images, voice, code, browsing). Perplexity Pro gives you the strongest research experience with unlimited Pro Search. For professionals who do both research and creation: paying $40/month for both is often more productive than choosing one.
 
 ## Pros & Cons
 
@@ -174,14 +175,14 @@ Both cost $20/month — the value comparison depends on what you need. ChatGPT P
 | ✅ | Superior writing and creative output | Real-time web search on every query |
 | ✅ | DALL-E integration for image generation | Pro Search for multi-step research workflows |
 | ✅ | Largest ecosystem — plugins, GPTs, integrations | Audit trail built into every answer |
-| ✅ | Best for creation, building, and exploration | Best for journalism, academia, and market research |
+| ✅ | Best suited for creation, building, and exploration | Best suited for journalism, academia, and market research |
 | ❌ | Sources less prominent — harder to verify claims | No platform — text-only, no images, voice, or code |
 | ❌ | Can be confidently wrong without clear source trail | Writing quality trails ChatGPT and Claude |
 | ❌ | Web browsing not always triggered on factual queries | Not a creativity or creation tool |
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">
@@ -208,7 +209,7 @@ Both cost $20/month — the value comparison depends on what you need. ChatGPT P
 </div>
 </div>
 
-### The best approach: Use both.
+### The strongest approach: Use both.
 
 Perplexity for the research phase — gathering sourced facts, verifying claims, finding references. Then pass the research to ChatGPT for the creation phase — writing, coding, generating, presenting. At $40/month total ($20 each), it's the most productive AI research-to-creation workflow available.
 

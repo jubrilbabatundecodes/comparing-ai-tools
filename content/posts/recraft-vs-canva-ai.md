@@ -11,9 +11,10 @@ TocOpen: true
 faq:
   - question: "Should I use Recraft or Canva AI?"
     answer: "Recraft (7.6) is built for designers who need vector/SVG output — logos, icons, brand assets that need to scale infinitely and be edited in Illustrator/Figma. Its unique vector generation and brand style consistency are unmatched. Canva AI (7.8) is built for everyone else — marketers, founders, educators who need polished designs fast from 1M+ templates. For vector design work: Recraft. For accessible, template-driven design: Canva AI."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick Take ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
@@ -25,7 +26,7 @@ faq:
   </p>
 </div>
 
-## Core Scoring
+## Scorecard at a Glance
 
 <div class="table-responsive">
 
@@ -38,7 +39,7 @@ faq:
 
 </div>
 
-## 3 Key Tests
+## 3 Tests That Matter
 
 ### Test 1: Vector Generation
 **Task:** Generate a logo icon from text prompt. **Recraft:** Generated an editable SVG — clean paths, proper layers, scalable to any size. Imported directly into Figma/Illustrator for further editing. Unique among AI design tools. **Canva AI:** Generates raster images (PNG) from prompts — good quality, non-editable as vectors.
@@ -55,7 +56,7 @@ faq:
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Recraft for vector-level brand precision; Canva for template-level brand consistency.</strong></p></div>
 
-## Key Differences
+## The Main Differences
 
 <div class="table-responsive">
 
@@ -70,7 +71,7 @@ faq:
 
 </div>
 
-## Final Recommendation
+## Final Take
 
 <div class="pros-cons-grid">
 <div class="pros-box">

@@ -1,53 +1,53 @@
 ---
 title: Privacy Policy
 date: 2026-06-06
-description: "How AI Tools Hub collects, uses, and protects your data."
+description: "How AI TOOL CLUB collects, uses, and protects your data."
 layout: page
 ShowBreadCrumbs: true
 ---
 
-**Last updated: June 6, 2026**
+**Last updated: October 31, 2026**
 
-## What We Collect
+## Information We Collect
 
-### Automatically (via Microsoft Clarity)
+### Automatically through Microsoft Clarity
 
-- Pages visited, time on page, scroll depth
-- Device type, browser, country-level location
-- Referral source (how you found us)
-- No personally identifiable information (PII) is collected
+- The pages you visit, time spent on each page, and scroll depth
+- Device and browser type, plus location at the country level
+- Referral source, which indicates how you reached the site
+- No personally identifiable information (PII)
 
-### Voluntarily
+### Information You Provide
 
-- If you open a GitHub issue, your GitHub username is visible
-- If you email us, we receive your email address
-- No account creation, no comments, no form submissions on this site
+- Your GitHub username is visible if you file an issue
+- We receive your email address if you contact us by email
+- This site has no accounts, comments, or submission forms
 
-## What We DON'T Collect
+## Information We Do Not Collect
 
-- Personal identification information
+- Personally identifying information
 - Payment data
 - Cookies beyond analytics essentials
-- Any data sold or shared with third parties
+- Data for sale or sharing with third parties
 
-## Why We Collect It
+## How We Use This Information
 
-- To understand which comparisons are most useful
-- To improve content based on reader behavior
-- To measure site performance
+- To learn which comparisons readers find useful
+- To refine content using aggregated reader behavior
+- To monitor site performance
 
-## Third-Party Services
+## Services We Use
 
 - **Microsoft Clarity** — analytics and session recording. [Clarity Privacy Policy](https://privacy.microsoft.com/en-us/privacystatement)
 - **GitHub Pages** — hosting. [GitHub Privacy Policy](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement)
 - **Cloudflare** — DNS only (no proxy, no data processing)
 
-## Your Rights
+## Your Choices
 
-- You can disable JavaScript to opt out of Clarity tracking
-- You can browse the site without any cookies
-- You can request deletion of any voluntarily submitted data by emailing contact@aitools-hub.xyz
+- Disable JavaScript to opt out of Clarity tracking
+- Browse the site without cookies
+- Ask for deletion of information you submitted by emailing [jubrilbabatunde2001@gmail.com](mailto:jubrilbabatunde2001@gmail.com)
 
 ## Contact
 
-For privacy-related inquiries: **contact@aitools-hub.xyz**
+For privacy questions, email **[jubrilbabatunde2001@gmail.com](mailto:jubrilbabatunde2001@gmail.com)**.

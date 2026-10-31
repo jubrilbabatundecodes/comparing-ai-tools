@@ -1,61 +1,32 @@
 ---
-title: "Leonardo.ai vs Midjourney v7: Game Asset Generation vs Artistic Excellence (June 2026)"
+title: "Leonardo AI vs Midjourney: Game Asset Workflows Compared With Artistic Range"
 date: 2026-06-05
 draft: false
-description: "Head-to-head comparison of Leonardo.ai (game assets, 3D materials, style consistency) vs Midjourney v7 (aesthetic quality, creative range). Which fits your workflow?"
+description: "Compare Leonardo AI and Midjourney for image quality, prompt control, style consistency, and game-asset production."
 categories: ["image"]
 tags: ["Leonardo.ai", "Midjourney", "game assets", "3D", "image generation", "AI art", "game development"]
 affiliateNote: "Some links may earn us a commission at no extra cost to you."
 ShowToc: true
 TocOpen: true
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## At a glance
 
-<div class="verdict-box">
-  <div class="verdict-label">⚡ Bottom Line</div>
-  <p class="verdict-text">
-    <strong>Leonardo.ai is for builders who need production-ready game assets.</strong> If you're making a game — characters, props, UI, 3D textures — Leonardo's asset pipeline, style-consistent generation, and custom model training are purpose-built for the job.<br><br>
-    <strong>Midjourney v7 is for creators who want the most beautiful images possible.</strong> For concept art, mood boards, marketing materials, or anything where raw aesthetic quality matters most, Midjourney is unmatched.<br><br>
-    <strong>For game devs: Leonardo for production assets, Midjourney for concept art. They complement each other.</strong>
-  </p>
-</div>
+This comparison is about workflow fit, not a universal winner. The original evaluation favored Midjourney for broad visual style and Leonardo for repeatable, production-oriented game assets. Current feature names and access may have changed, so treat the product descriptions as historical until checked against the official documentation linked below.
 
-## Core Scoring 📊
+## Core scoring
 
-<div class="table-responsive">
-
-| Dimension | Leonardo.ai | Midjourney v7 |
-|-----------|-------------|---------------|
-| **Photorealism & Quality (40%)** | 8.0 — excellent for game textures and 3D materials; trails in organic photorealism | 9.4 — the gold standard for photographic beauty |
-| **Prompt Adherence (35%)** | 8.8 — precise control; consistent multi-asset generation from a single style reference | 7.5 — beautiful but interprets freely; struggles with exact specifications |
-| **Artistic Style & Creativity (25%)** | 7.5 — strong within trained domains; narrower range than Midjourney | 9.5 — vast built-in style range; effortless aesthetic excellence |
+| Dimension | Leonardo AI | Midjourney |
+|-----------|-------------|-------------|
+| **Photorealism & Quality (40%)** | 8.0 | 9.4 |
+| **Prompt Adherence (35%)** | 8.8 | 7.5 |
+| **Artistic Style & Creativity (25%)** | 7.5 | 9.5 |
 | **Weighted Total** | **8.1 / 10** | **8.8 / 10** |
 
-</div>
+## Reported tests
 
-<div class="score-cards">
-<div class="score-card winner-card">
-  <div class="tool-name">🏆 Best Overall Quality</div>
-  <div class="tool-name">Midjourney v7</div>
-  <div class="score-number">8.8</div>
-  <div class="score-label">Weighted Score</div>
-</div>
-<div class="score-card winner-card">
-  <div class="tool-name">🏆 Best for Game Assets</div>
-  <div class="tool-name">Leonardo.ai</div>
-  <div class="score-number">8.1</div>
-  <div class="score-label">Weighted Score</div>
-</div>
-</div>
-
-> **⚙️ Weight:** This comparison uses the **default image weights (40/35/25)** — no adjustment needed. While Leonardo's strength is in asset consistency rather than raw photorealism, the standard weights capture the key trade-off well: Midjourney dominates quality, Leonardo controls precision.
-
-## Three Scenario Tests 🔬
-
-<div class="source-citation">
-  <strong>Data Sources:</strong> Official documentation (Leonardo.ai, Midjourney), community discussions (r/leonardoai, r/gamedev, r/midjourney), Civitai model data, pricing pages as of June 2026. Game asset assessments cross-referenced with indie game developer communities.
-</div>
+The previously reported test prompts, results, and verdicts are retained below. Original prompts, generated outputs, and run logs were not available for independent reproduction during this update; treat these as unverified editorial observations.
 
 ### Scenario 1: Photorealism & Quality (40%)
 
@@ -109,91 +80,15 @@ Leonardo.ai's base model produced competent but less inspired results. Its creat
   </p>
 </div>
 
-## Detailed Comparison
+## Recommendation
 
-### Pricing
+For a game pipeline that values repeatable assets and integrated production tools, the original recommendation is **Leonardo AI**. For concept art, mood boards and open-ended visual exploration, it is **Midjourney**. The comparison's overall scores remain Midjourney 8.8 and Leonardo 8.1; they are editorial ratings rather than current benchmark results.
 
-<div class="table-responsive">
+## Sources and verification
 
-| | Free | Entry Level | Pro / Team |
-|---|---|---|---|
-| **Leonardo.ai** | 150 credits/day (limited features) | $12/mo (2,500 credits) | $30/mo (10,000 credits + model training) |
-| **Midjourney** | None (~25 image trial) | $10/mo (~200 images) | $30/mo (unlimited relax mode) |
-| **API** | Leonardo API (pay-per-use) | Not available | — |
+Official references: [Leonardo pricing](https://leonardo.ai/pricing/), [Leonardo documentation](https://docs.leonardo.ai/), [Midjourney documentation](https://docs.midjourney.com/), [Midjourney plans](https://www.midjourney.com/account/)
 
-</div>
-
-**At a glance:** Leonardo's pricing is credit-based (1 credit ≈ 1–4 images depending on resolution), while Midjourney's is image-count-based. Leonardo gives you a free tier with daily credits; Midjourney has no free tier beyond the trial. For high-volume production, Leonardo's API is the only option.
-
-### Core Features
-
-<div class="table-responsive">
-
-| Feature | Leonardo.ai | Midjourney v7 |
-|---------|-------------|---------------|
-| **Core strength** | Game assets, textures, 3D materials | Artistic quality, creative exploration |
-| **Style consistency** | Custom model training ensures matching styles | `--sref` helps but less consistent |
-| **3D texture generation** | Yes — PBR maps, image-to-3D | No |
-| **Image-to-image** | Yes — multiple guidance modes | `--sref` + remix |
-| **Inpainting / editing** | Canvas editor with mask-based editing | Vary Region (less precise) |
-| **Custom model training** | Yes — upload images, train private models | No — closed ecosystem |
-| **API** | Yes — Leonardo API | No |
-| **Community** | Growing, game-dev focused | Massive, art/design focused |
-| **Platform** | Web app | Discord + web app |
-
-</div>
-
-## Pros & Cons
-
-<div class="table-responsive">
-
-| ✅ Leonardo.ai | ❌ Leonardo.ai |
-|:---|:---|
-| **Game asset pipeline** — textures, characters, props, UI in one tool | **Less beautiful out of the box** — aesthetic quality trails Midjourney |
-| **Custom model training** — train on your game's art style for perfect consistency | **Narrower creative range** — excels within trained domains, less exploratory |
-| **3D material generation** — PBR maps, image-to-3D, production-ready | **Credit system** — can get expensive for high-volume generation |
-| **Free tier** — 150 credits/day, good for evaluation | **Smaller community** — fewer public prompts and learning resources |
-| **API available** — integrate into game dev pipelines | **Newer product** — features evolve fast, some are rough |
-
-| ✅ Midjourney v7 | ❌ Midjourney v7 |
-|:---|:---|
-| **Best-looking images** — unmatched aesthetic quality | **No API** — cannot automate or integrate into pipelines |
-| **Effortless style mastery** — describe the vibe, get the image | **No custom models** — cannot train on your own art style |
-| **Massive community** — learn from millions of public prompts | **No 3D or texture features** — purely 2D image generation |
-| **Zero learning curve** — type a description, get beautiful output | **No free tier** — trial only, then paid |
-| **Web + Discord** — works everywhere, no GPU needed | **Asset inconsistency** — multiple generations vary in style |
-
-</div>
-
-## Final Recommendation
-
-<div class="pros-cons-grid">
-<div class="pros-box">
-
-### 🏆 Choose **Leonardo.ai** if you...
-
-- Make games and need production-ready assets (characters, props, UI, textures)
-- Need multi-asset consistency — everything must look like it belongs in the same world
-- Want to train a custom model on your game's existing art style
-- Need 3D textures with PBR maps or image-to-3D
-- Want an API to integrate image generation into your dev pipeline
-- Value precision and control over raw aesthetic beauty
-
-</div>
-<div class="pros-box">
-
-### 🏆 Choose **Midjourney v7** if you...
-
-- Create concept art, mood boards, or marketing visuals
-- Want the most beautiful images possible with the least effort
-- Value creative exploration — trying styles, vibes, and directions fast
-- Don't need production-ready consistency across multiple assets
-- Are a designer or artist (not a game developer)
-- Learn from communities — Midjourney's public prompt gallery is unmatched
-
-</div>
-</div>
+Checked 2026-10-31. Current model versions, prices, plan limits and feature availability could not be confirmed because the official pages were inaccessible in the review environment. The comparison's scores, weights, winners, recommendations and reported test observations are preserved and are not independently verified.
 
 ---
-
-*Last updated: June 5, 2026. Leonardo.ai features evolve rapidly — check their changelog for the latest.*
+*Editorial data check: October 31, 2026.*

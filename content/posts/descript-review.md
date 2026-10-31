@@ -13,23 +13,24 @@ faq:
     answer: "Yes — the free tier includes 1 hour of transcription per month and basic editing. Creator ($16/month) and Pro ($24/month) add more transcription hours, Overdub voice cloning, studio sound, and 4K export. For podcasters and YouTubers who edit talking-head content, Pro pays for itself in saved editing hours within the first month."
   - question: "Is Descript worth it for YouTubers?"
     answer: "For talking-head and tutorial content: yes, it's transformative. You edit video by editing the transcript — delete words, and the video cuts itself; remove 'ums' with one click; fix a mispronounced word by typing the correction and letting Overdub speak it. YouTubers typically cut editing time by 50-70%. For heavily visual, effects-driven content (gaming montages, cinematic edits): a traditional timeline editor is still better."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## The Short Answer ⚡
 
 <div class="verdict-box">
   <div class="verdict-label">⚡ Bottom Line</div>
   <p class="verdict-text">
-    <strong>Descript is the fastest way to edit talking-head video and podcasts — because you edit the words, not the timeline.</strong> It scores 8.2/10.<br><br>
-    Upload a recording and Descript transcribes it automatically. Then edit the transcript like a document: delete a sentence and the video cuts itself. Remove every "um" and "uh" with one click. Fix a misspoken word by typing — AI voice cloning (Overdub) speaks the correction in your own voice.<br><br>
-    It's not for cinematic or effects-heavy editing, but for podcasts, tutorials, and interviews — the majority of online video — it cuts editing time in half or better.<br><br>
-    <strong>For talk-driven content: Descript is the highest-leverage editing tool available.</strong>
+    <strong>For podcasts and talking-head videos, Descript speeds up editing by letting you work on the transcript instead of the timeline.</strong> It scores 8.2/10.<br><br>
+    Upload a recording and Descript transcribes it. From there, the transcript behaves like a document: remove a sentence and its video segment disappears; clear out "um" and "uh" with one click; correct a slip by typing, then let Overdub reproduce it in your voice.<br><br>
+    Cinematic and effects-heavy projects still call for a traditional editor. For interviews, tutorials, and podcasts—the bulk of online video—Descript can cut editing time by half or more.<br><br>
+    <strong>For content led by speech, Descript is one of the most powerful editing shortcuts available.</strong>
   </p>
 </div>
 
-## What Descript Does
+## How Descript Works
 
-Descript (founded 2017) rebuilt video editing around the transcript. It's now a full AI studio:
+Founded in 2017, Descript reorganized video editing around text transcripts and has since expanded into a full AI studio:
 
 - **Transcript-based editing** — edit the words, the video/podcast follows
 - **Filler-word removal** — one-click removal of ums, uhs, and false starts
@@ -52,20 +53,20 @@ Descript (founded 2017) rebuilt video editing around the transcript. It's now a 
 
 </div>
 
-## 3 Key Tests
+## Three Practical Tests
 
-### Test 1: Editing a Podcast Episode
-**Task:** Cut a 45-minute raw interview down to 25 minutes of tight content. **Result:** Editing the transcript was dramatically faster than timeline editing — read through, delete tangents, cut repetitions, and the audio follows perfectly. The filler-word removal alone cleaned 3 minutes of "ums" in one click. Total editing time: 40 minutes, versus 2+ hours in a traditional DAW. The workflow difference is a genuine paradigm shift, not a gimmick.
+### Test 1: Cutting a Podcast Episode
+**Task:** Condense a 45-minute raw interview into 25 minutes of focused material. **Result:** Transcript edits were far quicker than timeline work: scan the text, remove tangents and repeats, and the audio updates in sync. One-click filler removal cleared 3 minutes of "ums." The edit took 40 minutes, compared with 2+ hours in a traditional DAW. This is a real workflow change, not a gimmick.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Transcript editing halves podcast editing time — the workflow is the feature.</strong></p></div>
 
-### Test 2: Overdub Voice Correction
-**Task:** Fix a mispronounced name and one garbled sentence in a recorded video. **Result:** Selected the wrong word, typed the correction, and Overdub spoke it in the speaker's cloned voice — splice almost invisible at normal speed. Setup required a voice-cloning consent recording (~10 minutes). Results are convincing for short corrections; longer generated passages still sound slightly synthetic. For fixing flubs without re-recording: excellent.
+### Test 2: Correcting Speech with Overdub
+**Task:** Repair a mispronounced name and a garbled sentence in a recorded video. **Result:** Select the incorrect word, type the replacement, and Overdub says it using the speaker's cloned voice. At normal playback, the splice was nearly invisible. Setup involved a voice-cloning consent recording (~10 minutes). Short fixes sounded convincing; longer generated passages retained a slight synthetic quality. For correcting a flub without another take, it works very well.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Overdub fixes flubs without re-shoots — short corrections work best.</strong></p></div>
 
-### Test 3: Studio Sound and Limits
-**Test:** A recording made on a laptop mic in a echoey room. **Result:** Studio Sound removed the echo and boosted clarity remarkably — comparable to Adobe Podcast's enhancement. The limits appeared with video: Descript is not a full video editor (no keyframing, limited motion graphics), and heavy multitrack projects got sluggish. For effects-driven or cinematic editing, use a traditional editor; for talk content, Descript is the right tool.
+### Test 3: Studio Sound—and Where It Falls Short
+**Test:** A laptop-mic recording captured in an echoey room. **Result:** Studio Sound reduced the echo and improved clarity substantially, performing similarly to Adobe Podcast's enhancement. Video work exposed the limits: there is no keyframing, motion-graphics options are limited, and demanding multitrack projects became sluggish. Choose a traditional editor for cinematic or effects-focused work; Descript is better suited to spoken content.
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Audio cleanup is superb; complex video edits belong elsewhere.</strong></p></div>
 
@@ -82,7 +83,7 @@ Descript (founded 2017) rebuilt video editing around the transcript. It's now a 
 
 </div>
 
-## Pros & Cons
+## Strengths and Trade-Offs
 
 <div class="table-responsive">
 
@@ -96,7 +97,7 @@ Descript (founded 2017) rebuilt video editing around the transcript. It's now a 
 
 </div>
 
-## Final Recommendation
+## Recommendation
 
 <div class="pros-cons-grid">
 <div class="pros-box">
@@ -120,3 +121,8 @@ Descript (founded 2017) rebuilt video editing around the transcript. It's now a 
 
 ---
 *Last updated: September 18, 2026.*
+
+## Data Sources & Verification
+
+- Official verification pages: [Descript pricing](https://www.descript.com/pricing) and [Descript help center](https://help.descript.com/).
+- **Current-source check attempted 2026-10-31:** the pages could not be loaded in the available browser. Plan prices, transcription quotas, export limits, and plan availability of Overdub, Studio Sound, and 4K export need verification against these official pages. Claims are retained from the existing draft; no current values are represented as verified.

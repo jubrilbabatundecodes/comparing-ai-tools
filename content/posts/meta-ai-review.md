@@ -1,58 +1,35 @@
 ---
-title: "Meta AI Review 2026: The AI Inside WhatsApp, Instagram & Facebook — Llama 4 Tested"
+title: "Meta AI Review: Messaging-App Convenience and Capability"
 date: 2026-08-18
 draft: false
-description: "Meta AI review: the free AI assistant built into WhatsApp, Instagram, and Facebook scores 7.2/10. Powered by Llama 4. Convenience vs capability — how it compares to ChatGPT."
+description: "A review of Meta AI's assistant experience, integration, and reported limitations, with current model and plan claims flagged for verification."
 categories: ["chatbots"]
 tags: ["Meta AI", "Llama", "review", "WhatsApp", "Instagram", "free AI"]
 affiliateNote: "Some links may earn us a commission at no extra cost to you."
 ShowToc: true
 TocOpen: true
 faq:
-  - question: "Is Meta AI free?"
-    answer: "Yes — Meta AI is free inside WhatsApp, Instagram, Facebook, and Messenger, and via the standalone app/website. An optional premium tier (Meta AI+, $14.99/month) adds priority access and exclusive features. Since Meta monetizes through advertising rather than subscriptions, the core assistant is free for its 3+ billion users — no other major AI has this reach."
-  - question: "Is Meta AI as good as ChatGPT?"
-    answer: "No. Meta AI (7.2) is a step below ChatGPT (8.8) on reasoning, writing quality, and depth — Llama 4 is a solid open-weight model but trails the frontier. However, Meta AI is free everywhere you already chat (WhatsApp/Instagram), which makes it the most convenient AI for quick questions and everyday tasks. For serious work: ChatGPT or Claude. For convenience inside messaging apps: Meta AI is hard to beat."
+  - question: "What should readers know about the current product details?"
+    answer: "The original review rates Meta AI 7.2/10 and recommends it for convenient everyday questions in Meta apps. Current model names, app availability, feature access, and any paid tier are unverified."
+author: Babatunde Jubril
 ---
 
-## TL;DR: Quick Verdict ⚡
+## Quick verdict
 
-<div class="verdict-box">
-  <div class="verdict-label">⚡ Bottom Line</div>
-  <p class="verdict-text">
-    <strong>Meta AI is the most widely available AI assistant on Earth — and a mid-tier performer.</strong> It scores 7.2/10.<br><br>
-    Three billion people have Meta AI in their pocket: it's inside WhatsApp, Instagram, Facebook, and Messenger, plus a standalone app. No setup, no subscription, powered by Meta's Llama 4 models.<br><br>
-    The trade-off: answer quality is a clear step below ChatGPT and Claude for reasoning, writing, and coding. But for quick questions, image generation, and everyday chat where you already are — its convenience is unmatched.<br><br>
-    <strong>For everyday convenience inside messaging apps: Meta AI. For serious work: keep ChatGPT or Claude.</strong>
-  </p>
-</div>
+Meta AI's key proposition in the original review was convenient access inside Meta's consumer apps, with a standalone experience as another entry point. The review scored it 7.2/10: strong on integration, weaker on the reported reasoning and feature range. Model names, app availability and premium-plan claims from earlier copy are not treated as current facts here.
 
-## What Meta AI Does
-
-Meta AI launched in 2023 and now reaches the largest installed base of any AI assistant — it's built into the messaging apps billions already use daily.
-
-- **Chat inside WhatsApp/Instagram/Facebook/Messenger** — @Meta AI or a dedicated button
-- **Standalone app and website** (meta.ai) — full-featured assistant
-- **Image generation** — "Imagine" creates images from text in chat
-- **Voice mode** — talk to Meta AI conversationally
-- **Real-time web answers** — news and current events via search integration
-- **Ray-Ban Meta glasses integration** — hands-free AI on the go
-- **Meta AI+** — optional $14.99/month premium tier
-
-## Meta AI Scorecard
-
-<div class="table-responsive">
+## Scorecard
 
 | Dimension | Score | Notes |
 |-----------|-------|-------|
-| **Model Quality (40%)** | 7.0 | Llama 4 is solid but trails frontier models on reasoning |
-| **Integration & Reach (30%)** | 9.5 | 3B+ users; built into apps you already use |
-| **Features (30%)** | 5.0 | Thin: no document analysis, weak coding, limited tools |
+| **Model Quality (40%)** | 7.0 | Original assessment: solid for casual use, behind frontier reasoning |
+| **Integration & Reach (30%)** | 9.5 | Original assessment: built into apps many users already use |
+| **Features (30%)** | 5.0 | Original assessment: narrower than full-featured assistants |
 | **Weighted Total** | **7.2 / 10** | Unmatched convenience; mid-tier capability |
 
-</div>
+## Reported tests
 
-## 3 Key Tests
+The previously reported test prompts, results, and verdicts are retained below. Original prompts, generated outputs, and run logs were not available for independent reproduction during this update; treat these as unverified editorial observations.
 
 ### Test 1: Everyday Questions in WhatsApp
 **Task:** Ask day-to-day questions in WhatsApp chat — recipes, travel tips, quick facts, translations. **Result:** Fast, convenient, correct on simple queries. Answers were shorter than ChatGPT's but accurate ~90% of the time on everyday topics. Translation quality was solid. For "quick question while I'm chatting anyway": genuinely useful. The frictionless access is the product.
@@ -69,52 +46,15 @@ Meta AI launched in 2023 and now reaches the largest installed base of any AI as
 
 <div class="verdict-box"><div class="verdict-label">📝 Verdict</div><p class="verdict-text"><strong>Casual-grade images; not a design tool.</strong></p></div>
 
-## Pricing
+## Who should consider it?
 
-<div class="table-responsive">
+The original recommendation is Meta AI for low-friction everyday assistance within apps you already use. For consequential analysis, verify answers independently and compare with a dedicated assistant. Do not infer the current model, subscription terms, supported regions or limits from this review.
 
-| Tier | Price | What You Get |
-|------|-------|-------------|
-| **Meta AI** | Free | Full assistant in WhatsApp/Instagram/Facebook/app |
-| **Meta AI+** | $14.99/mo | Priority access, exclusive features, higher limits |
+## Sources and verification
 
-</div>
+Official references: [Meta AI](https://www.meta.ai/), [Meta AI information](https://ai.meta.com/), [Meta Llama](https://ai.meta.com/llama/)
 
-## Pros & Cons
-
-<div class="table-responsive">
-
-| ✅ Meta AI | ❌ Meta AI |
-|:---|:---|
-| **Free** — no subscription, no setup | **Mid-tier reasoning** — trails ChatGPT/Claude |
-| **Everywhere** — WhatsApp, Instagram, Facebook | **Thin features** — no docs, weak coding, few tools |
-| **3B+ reach** — the AI your family already has | **Limited standalone experience** |
-| **Voice mode** — conversational on mobile | **Privacy trade-offs** — Meta's ad model |
-| **Llama 4 open ecosystem** — models are open weights | **Image quality** below specialized tools |
-
-</div>
-
-## Final Recommendation
-
-<div class="pros-cons-grid">
-<div class="pros-box">
-
-### 🏆 Meta AI is perfect if:
-- You want AI where you already chat (WhatsApp/Instagram)
-- Quick everyday questions, translations, casual images
-- Free matters more than frontier capability
-- You're new to AI assistants
-
-</div>
-<div class="pros-box">
-
-### 🏆 Consider alternatives if:
-- You need deep reasoning and analysis → [ChatGPT Review](/posts/chatgpt-review/)
-- You need the most careful, accurate AI → [Claude Review](/posts/claude-opus-4-review/)
-- You want an overview of all options → [Best AI Chatbots](/posts/best-ai-chatbots/)
-
-</div>
-</div>
+Checked 2026-10-31. Current model/version, supported apps, user reach, plan options, image features and quotas remain unverified. Scores, weights, verdicts, recommendations and reported test claims are preserved, not independently re-tested.
 
 ---
-*Last updated: August 18, 2026.*
+*Editorial data check: October 31, 2026.*

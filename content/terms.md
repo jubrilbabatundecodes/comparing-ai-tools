@@ -1,46 +1,46 @@
 ---
 title: Terms of Use
 date: 2026-06-06
-description: "Terms and conditions for using AI Tools Hub."
+description: "Terms and conditions for using AI TOOL CLUB."
 layout: page
 ShowBreadCrumbs: true
 ---
 
-**Last updated: June 6, 2026**
+**Last updated: October 31, 2026**
 
-## Content Accuracy
+## Accuracy of Information
 
-- All comparisons reflect our best understanding as of the published date
-- AI tool pricing, features, and capabilities change rapidly
-- We update comparisons regularly but cannot guarantee real-time accuracy
-- Always verify pricing and features on the official tool websites before making purchasing decisions
+- Each comparison represents our best understanding on its publication date
+- Prices, features, and AI tool capabilities can change quickly
+- We revisit comparisons, but cannot promise that every detail is current at all times
+- Before you buy, confirm prices and features directly on the provider's official site
 
 ## Affiliate Disclosure
 
-- Some links to AI tools may be affiliate links
-- We may earn a commission at no extra cost to you
-- Affiliate relationships do not influence our scores, verdicts, or recommendations
-- Articles with affiliate links include a disclosure notice at the bottom
+- Links to some AI tools may be affiliate links
+- A qualifying link may earn us a commission without increasing your cost
+- Affiliate arrangements have no bearing on our scores, conclusions, or recommendations
+- We identify articles containing affiliate links with a notice at the end
 
 ## Our Methodology
 
-- All comparisons follow a public scoring framework
-- Weights and adjustments are documented in each article
-- Data sources are cited
-- We do not accept payment for favorable placement or scores
+- Comparisons use a scoring framework available to readers
+- Each article records its weights and any adjustments
+- We cite the sources used in our assessments
+- We never take payment for favorable rankings or scores
 
 ## Intellectual Property
 
-- Article text and original content: all rights reserved
-- Code (Hugo templates, CSS): available under the [MIT License](https://github.com/Linanxi12/aitoolscompare/blob/main/LICENSE) in the GitHub repository
-- AI tool names and logos are trademarks of their respective owners
+- All rights to article text and original material are reserved
+- The repository's code (Hugo templates and CSS) is available under the [MIT License](https://github.com/jubrilbabatundecodes/ComparingAItools/blob/main/LICENSE)
+- AI tool names and logos belong to their respective trademark owners
 
 ## Limitation of Liability
 
-- This site provides informational comparisons, not professional advice
-- We are not responsible for decisions made based on our comparisons
-- Tool performance may vary based on use case, region, and version
+- Our comparisons are for information only and are not professional advice
+- You are responsible for decisions you make using information on this site
+- A tool's results may differ by use case, location, and version
 
 ## Contact
 
-**contact@aitools-hub.xyz** · [GitHub Issues](https://github.com/Linanxi12/aitoolscompare/issues)
+**[jubrilbabatunde2001@gmail.com](mailto:jubrilbabatunde2001@gmail.com)** · [GitHub Issues](https://github.com/jubrilbabatundecodes/ComparingAItools/issues)
